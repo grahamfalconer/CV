@@ -3,7 +3,7 @@ I am a Full Stack Developer and a graduate of the Makers Academy Bootcamp in Lon
 
 ## Projects
 | Project Name | Project Picture | Project Description | Project link |
-|--------------|-----------------|------------------------------|
+|--------------|-----------------|------------------------------|----------|
 | Gapagbook | <img src="readme_pictures/gapagbook.png" alt="GapagBook" width="200"/>| A mock of facebook with user sign-up/sign-in and posts | https://gapag1.herokuapp.com |
 | Mission-ctrl | <img src="readme_pictures/mission-ctrl.png" alt="Mission-ctrl" width="200"/> | A game to learn VScode shortcuts using Javascript event listeners | http://mission-ctrl.surge.sh |
 
