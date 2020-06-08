@@ -1,6 +1,3 @@
-# CV
-My tech CV/resume
-
 ## Graham Falconer
 I am a Full Stack Developer and a graduate of the Makers Academy Bootcamp in London. During my time at Makers, I enjoyed an incredible shift in the the spectrum of what of what I thought I was capable of and have become more passionate about problem solving then ever before! Importantly, makers also allowed me to build up on and practice skills I already had, such as creating balance within a team and ensuring passion and enthusiasm for the task is present. My main interests in tech at the moment are machine learning, data science and AI. 
 
@@ -12,7 +9,7 @@ I am a Full Stack Developer and a graduate of the Makers Academy Bootcamp in Lon
 
 
 
-## 1. Skills
+## Skills
 
 Flexibility - This is arguably the skill I resonate with the most, having lived in 6 different countries by the age of 22 (New Zealand, South Africa, Kuwait, Bahrain, England & Scotland) I am no stranger to change and the difficulties that come with it. This has toughened my character given me a state of inspiration, wonder and hope which I try to let shine through on my tech.
 -Experience
@@ -43,18 +40,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+___________________________________________
 
-University of Birmingham - Geography (BA) 2016-2019
-During my time at the University of Birmingham I developed skills in:
-
-  - Data collection & sampling
-  - Data Analysis
-  - Data manipulation and presentation
-
-During that time was also around when the 'Cambridge Analytica' scandal during the election was truly unearthed in the Netflix documentary 'The Great Hack' and this sparked a personal investigation for myself into how are data is used in the modern day.
-
-#### Makers Academy (start_date to end_date)
+## My time at Makers Academy
 
 During my time at Makers I worked with the following technologies
  
@@ -68,30 +56,33 @@ During my time at Makers I worked with the following technologies
 | Hosting                      | Heroku, Surge      |
 | Databases                    | MongoDB, PostgreSQL |
 | Styling                      | Sass, CSS, Bulma  |
-| Front end testing frameworks | Jest, Enzyme   |
 | Testing frameworks       | Mocha, Chai, Sinon, Rspec, Jest, Enzyme, Jasmine, WilsonScript(my own), Capybara |
 | Codequality   | Rubocop, SimpleCov, Rubycritic |
 | Encryption    | Bcrypt     |
 
 - One of the skills I am most happy to have developed during my time at makers was my ability to follow extreme programming principles, I am better able to see the value in 
+
 - communication and checking in with my partner
 - simplicity - I learned not to overcomplicated problems and following the process of completing the next simplest step that moves me towards my MVP
+
 - Feedback - I learned both the value of giving and receiving feedback and how crucial it is to ensure that transparecy and giving appropriate validation or constructive criticism
+
 - Courage - the importance of being able to speak up when something is right or when you are not on the same page / don't understand something
+
 - Respect - respecting what my peers are saying as everyones opinion is valid and essential in decision making processes, knowin when it is your chance to speak and not speaking over another person who is currently speaking
 
 
-#### Your University / College (start_date to end_date)
+## Education
 
-University of Birmingham - Geography (BA) 2016-2019 
+**University of Birmingham - Geography (BA) 2016-2019**
 
-During my time at the University of Birmingham I developed skills in:
+During my time at the University of Birmingham I achieved a 2:1 and developed skills in:
   - Data collection & sampling
   - Data Analysis
   - Data manipulation and presentation
   
-
-Sutton Valence School - (A-levels)Geography, Business, Economics - 2014-2016
+___________________________________________
+**Sutton Valence School - (A-levels)Geography, Business, Economics - 2014-2016**
 
 During my time at Sutton Valence school:
   - I Developed skills in public speaking and entrepreneurship
@@ -99,7 +90,8 @@ During my time at Sutton Valence school:
   - Contributed towards a positive school environment by arranging after school socials for boarders
   - Captained the school swimming team in multiple galas
 
-International School of Cape Town - (GCSE's) 2010-1016
+___________________________________________
+**International School of Cape Town - (GCSE's) 2010-1016**
 
 During mt time at the International School of Cape Town:
   - I did weekly charity work in the township of Masiphumelele where I was able to work with children who live in extreme circumstances and educate them on the values of community, respect and togetherness.
