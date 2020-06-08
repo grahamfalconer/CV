@@ -62,7 +62,6 @@ During my time at Makers I worked with the following technologies
 | Hosting                      | Heroku, Surge      |
 | Databases                    | MongoDB, PostgreSQL |
 | Styling                      | Sass, CSS, Bulma  |
-| Front end testing frameworks | Jest, Enzyme   |
 | Testing frameworks       | Mocha, Chai, Sinon, Rspec, Jest, Enzyme, Jasmine, WilsonScript(my own), Capybara |
 | Codequality   | Rubocop, SimpleCov, Rubycritic |
 | Encryption    | Bcrypt     |
