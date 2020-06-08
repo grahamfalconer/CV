@@ -76,15 +76,15 @@ During my time at Makers I worked with the following technologies
 
 #### Your University / College (start_date to end_date)
 
-University of Birmingham - Geography (BA) 2016-2019 
+**University of Birmingham - Geography (BA) 2016-2019**
 
-During my time at the University of Birmingham I developed skills in:
+During my time at the University of Birmingham I achieved a 2:1 and developed skills in:
   - Data collection & sampling
   - Data Analysis
   - Data manipulation and presentation
   
 
-Sutton Valence School - (A-levels)Geography, Business, Economics - 2014-2016
+**Sutton Valence School - (A-levels)Geography, Business, Economics - 2014-2016**
 
 During my time at Sutton Valence school:
   - I Developed skills in public speaking and entrepreneurship
