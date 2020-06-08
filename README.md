@@ -4,8 +4,8 @@ I am a Full Stack Developer and a graduate of the Makers Academy Bootcamp in Lon
 ## Projects
 | Project Name | Project Picture | Project Description and link |
 |--------------|-----------------|------------------------------|
-| Gapagbook | (![](readme_pictures/gapagbook.png)=100x20) | A mock of facebook with user sign-up/sign-in and posts |
-| Mission-ctrl |( ![](readme_pictures/mission-ctrl.png )=100x20)| A game to learn VScode shortcuts using Javascript event listeners |
+| Gapagbook | <img src="readme_pictures/gapagbook.png" alt="GapagBook" width="200"/>| A mock of facebook with user sign-up/sign-in and posts |
+| Mission-ctrl | <img src="readme_pictures/mission-ctrl.png" alt="Mission-ctrl" width="200"/> | A game to learn VScode shortcuts using Javascript event listeners |
 
 
 ## Skills
