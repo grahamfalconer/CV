@@ -2,7 +2,7 @@
 I am a Full Stack Developer and a graduate of the Makers Academy Bootcamp in London. During my time at Makers, I enjoyed an incredible shift in the the spectrum of what of what I thought I was capable of and have become more passionate about problem solving then ever before! Importantly, makers also allowed me to build up on and practice skills I already had, such as creating balance within a team and ensuring passion and enthusiasm for the task is present. My main interests in tech at the moment are machine learning, data science and AI. 
 
 ## Projects
-| Project Name | Project Picture | Project Description and link |
+| Project Name | Project Picture | Project Description | Project link |
 |--------------|-----------------|------------------------------|
 | Gapagbook | <img src="readme_pictures/gapagbook.png" alt="GapagBook" width="200"/>| A mock of facebook with user sign-up/sign-in and posts | https://gapag1.herokuapp.com |
 | Mission-ctrl | <img src="readme_pictures/mission-ctrl.png" alt="Mission-ctrl" width="200"/> | A game to learn VScode shortcuts using Javascript event listeners | http://mission-ctrl.surge.sh |
