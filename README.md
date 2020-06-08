@@ -5,8 +5,11 @@ My tech CV/resume
 I am a Full Stack Developer and a graduate of the Makers Academy Bootcamp in London. During my time at Makers, I enjoyed an incredible shift in the the spectrum of what of what I thought I was capable of and have become more passionate about problem solving then ever before! Importantly, makers also allowed me to build up on and practice skills I already had, such as creating balance within a team and ensuring passion and enthusiasm for the task is present. My main interests in tech at the moment are machine learning, data science and AI. 
 
 ## Projects
+| Project Name | Project Picture | Project Description and link |
+|--------------|-----------------|------------------------------|
+| Gapagbook | ![](readme_pictures/gapagbook.png) | A mock of facebook with user sign-up/sign-in and posts |
+| Mission-ctrl | ![](readme_pictures/mission-ctrl.png) | A game to learn VScode shortcuts using Javascript event listeners |
 
-INSERT COOL PROJECTS HERE
 
 
 ## 1. Skills
