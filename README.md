@@ -6,7 +6,7 @@ I am a Full Stack Developer and a graduate of the Makers Academy Bootcamp in Lon
 INSERT COOL PROJECTS HERE
 
 
-## 1. Skills
+## Skills
 
 Flexibility - This is arguably the skill I resonate with the most, having lived in 6 different countries by the age of 22 (New Zealand, South Africa, Kuwait, Bahrain, England & Scotland) I am no stranger to change and the difficulties that come with it. This has toughened my character given me a state of inspiration, wonder and hope which I try to let shine through on my tech.
 -Experience
@@ -39,7 +39,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ___________________________________________
 
-#### Makers Academy (start_date to end_date)
+## My time at Makers Academy
 
 During my time at Makers I worked with the following technologies
  
