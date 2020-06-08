@@ -37,17 +37,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
-___________________________________________
-University of Birmingham - Geography (BA) 2016-2019
-During my time at the University of Birmingham I developed skills in:
-
-  - Data collection & sampling
-  - Data Analysis
-  - Data manipulation and presentation
-
-___________________________________________
-During that time was also around when the 'Cambridge Analytica' scandal during the election was truly unearthed in the Netflix documentary 'The Great Hack' and this sparked a personal investigation for myself into how are data is used in the modern day.
 ___________________________________________
 
 #### Makers Academy (start_date to end_date)
@@ -80,7 +69,7 @@ During my time at Makers I worked with the following technologies
 - Respect - respecting what my peers are saying as everyones opinion is valid and essential in decision making processes, knowin when it is your chance to speak and not speaking over another person who is currently speaking
 
 
-#### Your University / College (start_date to end_date)
+## Education
 
 **University of Birmingham - Geography (BA) 2016-2019**
 
