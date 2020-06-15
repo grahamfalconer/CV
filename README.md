@@ -38,6 +38,7 @@ _____________________________
 <h2> Education </h2>
 
 <h3> University of Birmingham - Geography (BA) 2016-2019 </h3>
+
   > Practiced hands on scientific approaches to research
   >> Data collection & sampling
   >>> Mapping
@@ -46,6 +47,7 @@ _____________________________
   
 
 <h3> Sutton Valence School - 2014-2016** </h3>
+
   > Developed skills in public speaking and entrepreneurship
   >> Won the Rotary Youth Speaks public speaking award for SVS (2015)
   >>> Contributed towards a positive school environment by arranging after school socials for boarders
@@ -61,6 +63,7 @@ _____________________________
 
 
 <h3> International School of Cape Town - (GCSE's) 2010-1016** </h3>
+
   > Participated in weekly charity work in the township of Masiphumelele where I was able to work with children who live in extreme circumstances and educate them on the values of community, respect and togetherness.
 >> Played in the schools first futsal team
 >>> Trained as a lifeguard on Camps Bay Beach where I learned emergency protocols and how to stay vigilient in busy times 
