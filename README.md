@@ -55,7 +55,10 @@ _____________________________
   >>> Contributed towards a positive school environment by arranging after school socials for boarders
   >>>> Captained the school swimming team in multiple galas
 
+<br />
+
  *(A-levels)*
+ 
 |Subject| Grade |
  |------|--------|
 | Geography | A* |
@@ -70,6 +73,8 @@ _____________________________
   > Participated in weekly charity work in the township of Masiphumelele where I was able to work with children who live in extreme circumstances and educate them on the values of community, respect and togetherness.
 >> Played in the schools first futsal team
 >>> Trained as a lifeguard on Camps Bay Beach where I learned emergency protocols and how to stay vigilient in busy times 
+
+<br />
 
 *IGCSE's (CIE)*
 
