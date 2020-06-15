@@ -10,34 +10,16 @@ I am a Full Stack Developer and a graduate of the Makers Academy Bootcamp in Lon
 
 ## Skills
 
-Flexibility - This is arguably the skill I resonate with the most, having lived in 6 different countries by the age of 22 (New Zealand, South Africa, Kuwait, Bahrain, England & Scotland) I am no stranger to change and the difficulties that come with it. This has toughened my character given me a state of inspiration, wonder and hope which I try to let shine through on my tech.
--Experience
--Achievement
--Evidence
+Problem-solver -Tech is providing me with an awesome scope of challenges, each allowing me to utilise a subset of problem-solving skills I have such as my curiosity, determination and idea-formulation. This was present in my Makers challenges as I actively came up with new ways to debug the problem and provided innovative solutions of my own that would help us move forward.
 
-Enthusiasm - Tech has been an exciting whirlwind for me thus far and I have found that ethusiasm to be my enabler in the work I do, I believe in keeping a positive mental and attitude and to let uneccesary stress go so that you may focus on the task at hand (this is something I have also practiced during meditation)
--Experience
--Achievement
--Evidence
+Good communicator - I have always been recognised as an optimistic and outgoing person by my peers and have regularly been put forward for roles involving demonstrations, negotiations and public-speaking. This has allowed me to become a great story-teller who can help motivate and inspire with my words.
 
-Trusting and trustworthy - I am believer in trusting in your partner and that is why I usually deal with complete transparency about how I feel in the way I work, this allows me to make correct adjustments and allows me to deal in greater accuracy with the work I do.
--Experience
--Achievement
--Evidence
+Flexibility - This is arguably the skill I resonate with the most, having lived in 6 different countries by the age of 22 (New Zealand, South Africa, Kuwait, Bahrain, England & Scotland) I am no stranger to change and the difficulties that come with it. I have always been able to quickly establish and integrate myself into new cultures. This was present during my move from school in Cape Town to Sutton Valence where in my 2 years I became an active member in multiple sports teams and other societies where I was be able to represent the school.
 
-Curiosity - This is another skill I find I highly resonate with, my curiosity is what has lead me into the realms of tech in which I can explore learning in a way that profits my career in the long-term which is something I find super awesome and us another reason why I love tech.
--Experience
--Achievement
--Evidence
+Enthusiasm - Tech has been an exciting whirlwind for me thus far and I have found enthusiasm to be my enabler in the work I do and believe in sharing that enthusiasm with the team for best results. This was present during my work on the final project at Makers where I regularly made sure everyone focussed on the wonder and the challenge aspect of what we were doing so that people felt energised going into their tasks. 
 
----->  Another Skill
+Culture Oriented - public space, geography, study of culture, talked about culture Public speaker - could go into good communicator but I have a lot on it.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ___________________________________________
 
