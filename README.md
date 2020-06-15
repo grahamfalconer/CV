@@ -48,9 +48,8 @@ _____________________________
 During my time at University I developed skills in;
   - Statistical tracking
   - Mapping
-  >- Data collection & sampling
-  >>- Data Analysis
-  >>>- Data manipulation and presentation
+  - Data collection & sampling
+  - Data Analysis
   
   
 ___________________________________________
@@ -62,11 +61,12 @@ During my time at Sutton Valence school:
   - Contributed towards a positive school environment by arranging after school socials for boarders
   - Captained the school swimming team in multiple galas
 
- >**(A-levels)**
+ **(A-levels)**
  
->>Geography - A*
->>Business - A 
->>Economics - B
+- Geography - A*
+- Business - A 
+- Economics - B
+- Biology (AS) - B
 
 
 ___________________________________________
@@ -75,7 +75,19 @@ ___________________________________________
 During mt time at the International School of Cape Town:
   - I did weekly charity work in the township of Masiphumelele where I was able to work with children who live in extreme circumstances and educate them on the values of community, respect and togetherness.
 - Played in the schools first futsal team
-  - Trained as a lifeguard on Camps Bay Beach where I learned emergency protocols and how to stay vigilient in busy times 
+- Trained as a lifeguard on Camps Bay Beach where I learned emergency protocols and how to stay vigilient in busy times 
+
+**IGCSE's (CIE)**
+
+Geography - A*
+Biology - A*
+Chemistry - B
+Business - A
+Maths - B
+English Language - B
+English Literature - B
+French - B
+Art - C
 
 
 ## Experience
