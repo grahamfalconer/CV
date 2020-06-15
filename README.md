@@ -59,6 +59,7 @@ _____________________________
 | Economics | B |
 | Biology (AS) | B |
 
+
 **International School of Cape Town - (GCSE's) 2010-1016**
   > Participated in weekly charity work in the township of Masiphumelele where I was able to work with children who live in extreme circumstances and educate them on the values of community, respect and togetherness.
 >> Played in the schools first futsal team
