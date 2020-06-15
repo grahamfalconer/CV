@@ -55,11 +55,12 @@ During my time at Sutton Valence school I:
   >>>> Captained the school swimming team in multiple galas
 
  **(A-levels)**
- 
-* Geography - A*
-* Business - A 
-* Economics - B
-* Biology (AS) - B
+|Subject| Grade |
+ |------|--------|
+| Geography | A* |
+| Business | A | 
+| Economics | B |
+| Biology (AS) | B |
 
 **International School of Cape Town - (GCSE's) 2010-1016**
 
