@@ -22,19 +22,18 @@ I am looking for a company which has a great culture and is excited about their 
 
 ## Skills
 
-**Problem-solver** -Tech is providing me with an awesome scope of challenges, each allowing me to utilise a subset of problem-solving skills I have such as my curiosity, determination and idea-formulation. This was present in my Makers challenges as I actively came up with new ways to debug the problem and provided innovative solutions of my own that would help us move forward.
+**Problem-solver** - Tech is providing me with an awesome scope of challenges, each one allowing me to utilize a subset of problem-solving skills, such as my curiosity, determination, and idea-formulation. This was present in my Maker's challenges as I actively came up with new ways to debug the problem and provided innovative solutions of my own that would help us move forward.
+_____________________________
+
+**Good communicator** - I have always been recognized as an optimistic and outgoing person by my peers and have regularly been put forward for roles involving demonstrations, negotiations, and public speaking. This has allowed me to become a great story-teller who can help motivate and inspire with my words.
 
 _____________________________
 
-**Good communicator** - I have always been recognised as an optimistic and outgoing person by my peers and have regularly been put forward for roles involving demonstrations, negotiations and public-speaking. This has allowed me to become a great story-teller who can help motivate and inspire with my words.
+**Flexibility** - This is arguably the skill I resonate with the most, having lived in 6 different countries by the age of 22 (New Zealand, South Africa, Kuwait, Bahrain, England & Scotland) I am no stranger to change and the difficulties that come with it. I have always been quick to establish and integrate myself into new cultures. This was present during my move from school in Cape Town to Sutton Valence, wherein my 2 years I became an active member in multiple sports teams and other societies where I was able to represent my school.
 
 _____________________________
 
-**Flexibility** - This is arguably the skill I resonate with the most, having lived in 6 different countries by the age of 22 (New Zealand, South Africa, Kuwait, Bahrain, England & Scotland) I am no stranger to change and the difficulties that come with it. I have always been able to quickly establish and integrate myself into new cultures. This was present during my move from school in Cape Town to Sutton Valence where in my 2 years I became an active member in multiple sports teams and other societies where I was be able to represent the school.
-
-_____________________________
-
-**Enthusiastic** - Tech has been an exciting whirlwind for me thus far and I have found enthusiasm to be my enabler in the work I do and believe in sharing that enthusiasm with the team for best results. This was present during my work on the final project at Makers where I regularly made sure everyone focussed on the wonder and the challenge aspect of what we were doing so that people felt energised going into their tasks. 
+**Enthusiastic** - Tech has been an exciting whirlwind for me thus far and I have found enthusiasm to be my enabler in the work I do and believe in sharing that enthusiasm with the team for best results. This was present during my work on the final project at Makers where I regularly made sure everyone focussed on the wonder and the challenge aspect of what we were doing so that people felt energized going into their tasks.
 
 _____________________________
 
