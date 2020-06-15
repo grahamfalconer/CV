@@ -13,7 +13,7 @@ I am looking for a company which has a great culture and is excited about their 
 
 ## Skills
 
-**Problem-solver** -Tech is providing me with an awesome scope of challenges, each allowing me to utilise a subset of >problem-solving skills I have such as my curiosity, determination and idea-formulation. This was present in my Makers >challenges as I actively came up with new ways to debug the problem and provided innovative solutions of my own that would >help us move forward.
+**Problem-solver** -Tech is providing me with an awesome scope of challenges, each allowing me to utilise a subset of problem-solving skills I have such as my curiosity, determination and idea-formulation. This was present in my Makers challenges as I actively came up with new ways to debug the problem and provided innovative solutions of my own that would help us move forward.
 
 **Good communicator** - I have always been recognised as an optimistic and outgoing person by my peers and have regularly been put forward for roles involving demonstrations, negotiations and public-speaking. This has allowed me to become a great story-teller who can help motivate and inspire with my words.
 
@@ -33,18 +33,6 @@ ___________________________________________
 | Ruby, Sinatra, Ruby on Rails, Javascript, Node.js, JQuery, HTML, CSS, React, Express, PostgreSQL, SQLite, MongoDB, Travis CI/CD, Rspec, Rubocop, SimpleCov, Rubycritic, Capybara, Mocha, Chai, Jest, Enzyme, Jasmine   |
 |**other technologies...**|
 |Miro, Trello (Agile workflow tool), ArcGIS, ArcMaps, Microsoft Word, Microsoft Excel, Microsoft Powerpoint, Adobe Photoshop.|
-
-
-- One of the skills I am most happy to have developed during my time at makers was my ability to follow extreme programming principles, I am better able to see the value in 
-
-- communication and checking in with my partner
-- simplicity - I learned not to overcomplicated problems and following the process of completing the next simplest step that moves me towards my MVP
-
-- Feedback - I learned both the value of giving and receiving feedback and how crucial it is to ensure that transparecy and giving appropriate validation or constructive criticism
-
-- Courage - the importance of being able to speak up when something is right or when you are not on the same page / don't understand something
-
-- Respect - respecting what my peers are saying as everyones opinion is valid and essential in decision making processes, knowin when it is your chance to speak and not speaking over another person who is currently speaking
 
 
 ## Education
@@ -86,13 +74,19 @@ During mt time at the International School of Cape Town:
 ## Experience
 
 **Makers Academy** (February 2020 - June 2020)    
+_____________________________
 
 *Junior Developer*  
-- AGILE processes
-- Understandings of O.O.D
-- T.D.D
-- Ruby & Javascript  
-- Front-end development
+
+During my time on the course I got to practise some fundamental programming processes such as; 
+
+ *T.D.D : I would write tests for the code that I wrote. This allowed me to be able to solve complex problems through a methodical process as well as stay organised and ontop of task at hand.
+
+*Agile Workflow : Events such as standups, scrums and check-ins were used regularly. This is to follow modern methodologies on how we should programme and to help to abide by the Extreme Programming Principles; feedback, respect, courage, communication and simplicity.
+
+
+As well as build on the foundation of understanding I had of O.D.D, the MVC and how my code should all fit and work together. 
+
 
 **Minutz Management (Work experience)** 
 
