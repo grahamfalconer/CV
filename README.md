@@ -13,7 +13,7 @@ I am looking for a company which has a great culture and is excited about their 
 
 ## Technologies
 
-|Technologies I have worked with|
+|**Programming**|
 |--------------------------------|
 | Ruby, Sinatra, Ruby on Rails, Javascript, Node.js, JQuery, HTML, CSS, React, Express, PostgreSQL, SQLite, MongoDB, Travis CI/CD, Rspec, Rubocop, SimpleCov, Rubycritic, Capybara, Mocha, Chai, Jest, Enzyme, Jasmine   |
 |**other technologies...**|
