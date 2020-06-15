@@ -60,10 +60,11 @@ During my time at Makers I worked with the following technologies
 
 **University of Birmingham - Geography (BA) 2016-2019**
 
-During my time at the University of Birmingham I achieved a 2:1 and developed skills in:
   - Data collection & sampling
   - Data Analysis
   - Data manipulation and presentation
+  - Mapping 
+  
   
 ___________________________________________
 **Sutton Valence School - (A-levels)Geography, Business, Economics - 2014-2016**
@@ -79,6 +80,7 @@ ___________________________________________
 
 During mt time at the International School of Cape Town:
   - I did weekly charity work in the township of Masiphumelele where I was able to work with children who live in extreme circumstances and educate them on the values of community, respect and togetherness.
+- Played in the schools first futsal team
   - Trained as a lifeguard on Camps Bay Beach where I learned emergency protocols and how to stay vigilient in busy times 
 
 
@@ -91,6 +93,7 @@ During mt time at the International School of Cape Town:
 - Understandings of O.O.D
 - T.D.D
 - Ruby & Javascript  
+- Front-end development
 
 **Minutz Management (Work experience)** 
 
@@ -98,13 +101,14 @@ During mt time at the International School of Cape Town:
 - Got to work side by side with developers in preparing a product for our client
 - Created presentations for clients
 
-
 **Scientrix (Work experience)** 
 
 *Work Experience*  
 - Developed models using the Scientrix business matrix strategy tool,
 - Learned about business tools for productivity and agile working
 
+- Coding... was encouraged to learn some basic coding principles by developers within the company as I discovered a passion an initial for it.
+
 ## Hobbies
 
-I am massively passionate about animals and given the opportunity I like to go out into nature and see what I can find, this leads to a lot of travel exploration.
+I love travel, nature, hiking and the occassional braai.
