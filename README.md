@@ -1,4 +1,4 @@
-## Graham Falconer
+#### Graham Falconer
 I am a British South-African, Full Stack Developer and graduate of the Makers Academy Bootcamp in London. During my time at Makers, I enjoyed an incredible shift in the the spectrum of what of what I thought I was capable of and have become more passionate about problem solving then ever before. I am currently looking for a job as a Junior Developer so that I can build on the skills, learn new things and to help make valid contribution to a company's success. 
 
 I am looking for a company which has a great culture and is excited about their vision so that I can can help them as they help me on our journeys. My main interests in tech at the moment are machine learning, data science and AI. 
@@ -11,9 +11,13 @@ I am looking for a company which has a great culture and is excited about their 
 | Gapagbook | <img src="readme_pictures/gapagbook.png" alt="GapagBook" width="200"/>| A mock of facebook with user sign-up/sign-in and posts | https://gapag1.herokuapp.com |
 | Mission-ctrl | <img src="readme_pictures/mission-ctrl.png" alt="Mission-ctrl" width="200"/> | A game to learn VScode shortcuts using Javascript event listeners | http://mission-ctrl.surge.sh |
 
+## Technologies
 
-
-
+|Technologies I have worked with|
+|--------------------------------|
+| Ruby, Sinatra, Ruby on Rails, Javascript, Node.js, JQuery, HTML, CSS, React, Express, PostgreSQL, SQLite, MongoDB, Travis CI/CD, Rspec, Rubocop, SimpleCov, Rubycritic, Capybara, Mocha, Chai, Jest, Enzyme, Jasmine   |
+|**other technologies...**|
+|Miro, Trello (Agile workflow tool), ArcGIS, ArcMaps, Microsoft Word, Microsoft Excel, Microsoft Powerpoint, Adobe Photoshop.|
 
 
 ## Skills
@@ -36,14 +40,6 @@ _____________________________
 
 **Culture Oriented** - public space, geography, study of culture, talked about culture Public speaker - could go into good communicator but I have a lot on it.
 
-
-## Technologies
-
-|Technologies I have worked with|
-|--------------------------------|
-| Ruby, Sinatra, Ruby on Rails, Javascript, Node.js, JQuery, HTML, CSS, React, Express, PostgreSQL, SQLite, MongoDB, Travis CI/CD, Rspec, Rubocop, SimpleCov, Rubycritic, Capybara, Mocha, Chai, Jest, Enzyme, Jasmine   |
-|**other technologies...**|
-|Miro, Trello (Agile workflow tool), ArcGIS, ArcMaps, Microsoft Word, Microsoft Excel, Microsoft Powerpoint, Adobe Photoshop.|
 
 
 ## Education
