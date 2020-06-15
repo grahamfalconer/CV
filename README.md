@@ -38,7 +38,7 @@ _____________________________
 ## Education
 
 **University of Birmingham - Geography (BA) 2016-2019**
->During my time at University I developed skills in;
+During my time at University I developed skills in;
   >> Statistical tracking
   >>> Mapping
   >>>> Data collection & sampling
