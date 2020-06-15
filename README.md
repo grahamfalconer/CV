@@ -40,9 +40,9 @@ _____________________________
 **University of Birmingham - Geography (BA) 2016-2019**
 >During my time at University I developed skills in;
   >> Statistical tracking
-  >> Mapping
-  >> Data collection & sampling
-  >> Data Analysis
+  >>> Mapping
+  >>>> Data collection & sampling
+  >>>>> Data Analysis
   
   
 
@@ -50,9 +50,9 @@ _____________________________
 
 >During my time at Sutton Valence school:
   >> I Developed skills in public speaking and entrepreneurship
-  >> Won the Rotary Youth Speaks public speaking award for SVS (2015)
-  >> Contributed towards a positive school environment by arranging after school socials for boarders
-  >> Captained the school swimming team in multiple galas
+  >>> Won the Rotary Youth Speaks public speaking award for SVS (2015)
+  >>>> Contributed towards a positive school environment by arranging after school socials for boarders
+  >>>>> Captained the school swimming team in multiple galas
 
  **(A-levels)**
  
