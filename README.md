@@ -47,10 +47,10 @@ _____________________________
 **University of Birmingham - Geography (BA) 2016-2019**
 During my time at University I developed skills in;
   - Statistical tracking
+  - Mapping
   >- Data collection & sampling
   >>- Data Analysis
   >>>- Data manipulation and presentation
-  - Mapping
   
   
 ___________________________________________
@@ -62,11 +62,11 @@ During my time at Sutton Valence school:
   - Contributed towards a positive school environment by arranging after school socials for boarders
   - Captained the school swimming team in multiple galas
 
- **(A-levels)**
+ >**(A-levels)**
  
-Geography - A*
-Business - A 
-Economics - B
+>>Geography - A*
+>>Business - A 
+>>Economics - B
 
 
 ___________________________________________
