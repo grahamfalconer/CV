@@ -71,15 +71,17 @@ During mt time at the International School of Cape Town I:
 
 **IGCSE's (CIE)**
 
-* Geography - A*
-* Biology - A*
-* Chemistry - B
-* Business - A
-* Maths - B
-* English Language - B
-* English Literature - B
-* French - B
-* Art - C
+|Subject | Grade |
+|--------|------|
+| Geography |  A* |
+| Biology | A* |
+| Chemistry | B |
+| Business | A |
+| Maths | B |
+| English Language | B |
+| English Literature | B |
+| French | B |
+| Art | C |
 
 ___________________________________________
 ## Experience
