@@ -87,9 +87,9 @@ ___________________________________________
 
 During my time on the course I got to practise some fundamental programming processes such as; 
 
- *T.D.D : I would write tests for the code that I wrote. This allowed me to be able to solve complex problems through a methodical process as well as stay organised and ontop of task at hand.
+**T.D.D** : I would write tests for the code that I wrote. This allowed me to be able to solve complex problems through a methodical process as well as stay organised and ontop of task at hand.
 
-*Agile Workflow : Events such as standups, scrums and check-ins were used regularly. This is to follow modern methodologies on how we should programme and to help to abide by the Extreme Programming Principles; feedback, respect, courage, communication and simplicity.
+**Agile Workflow** : Events such as standups, scrums and check-ins were used regularly. This is to follow modern methodologies on how we should programme and to help to abide by the Extreme Programming Principles; feedback, respect, courage, communication and simplicity.
 
 
 As well as build on the foundation of understanding I had of O.D.D, the MVC and how my code should all fit and work together. 
