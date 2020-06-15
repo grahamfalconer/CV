@@ -38,7 +38,7 @@ _____________________________
 ## Education
 
 **University of Birmingham - Geography (BA) 2016-2019**
-  > Scientific approaches to research
+  > Practiced hands on scientific approaches to research
   >> Data collection & sampling
   >>> Mapping
   >>>> Data analysis
