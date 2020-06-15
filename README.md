@@ -13,7 +13,7 @@ I am looking for a company which has a great culture and is excited about their 
 
 ## Skills
 
-**Problem-solver** -Tech is providing me with an awesome scope of challenges, each allowing me to utilise a subset of problem-solving skills I have such as my curiosity, determination and idea-formulation. This was present in my Makers challenges as I actively came up with new ways to debug the problem and provided innovative solutions of my own that would help us move forward.
+**Problem-solver** -Tech is providing me with an awesome scope of challenges, each allowing me to utilise a subset of >problem-solving skills I have such as my curiosity, determination and idea-formulation. This was present in my Makers >challenges as I actively came up with new ways to debug the problem and provided innovative solutions of my own that would >help us move forward.
 
 **Good communicator** - I have always been recognised as an optimistic and outgoing person by my peers and have regularly been put forward for roles involving demonstrations, negotiations and public-speaking. This has allowed me to become a great story-teller who can help motivate and inspire with my words.
 
