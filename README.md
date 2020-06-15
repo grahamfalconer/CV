@@ -19,7 +19,7 @@ I am looking for a company which has a great culture and is excited about their 
 
 **Flexibility** - This is arguably the skill I resonate with the most, having lived in 6 different countries by the age of 22 (New Zealand, South Africa, Kuwait, Bahrain, England & Scotland) I am no stranger to change and the difficulties that come with it. I have always been able to quickly establish and integrate myself into new cultures. This was present during my move from school in Cape Town to Sutton Valence where in my 2 years I became an active member in multiple sports teams and other societies where I was be able to represent the school.
 
-**Enthusiasm** - Tech has been an exciting whirlwind for me thus far and I have found enthusiasm to be my enabler in the work I do and believe in sharing that enthusiasm with the team for best results. This was present during my work on the final project at Makers where I regularly made sure everyone focussed on the wonder and the challenge aspect of what we were doing so that people felt energised going into their tasks. 
+**Enthusiastic** - Tech has been an exciting whirlwind for me thus far and I have found enthusiasm to be my enabler in the work I do and believe in sharing that enthusiasm with the team for best results. This was present during my work on the final project at Makers where I regularly made sure everyone focussed on the wonder and the challenge aspect of what we were doing so that people felt energised going into their tasks. 
 
 **Culture Oriented** - public space, geography, study of culture, talked about culture Public speaker - could go into good communicator but I have a lot on it.
 
