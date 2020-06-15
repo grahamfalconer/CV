@@ -45,7 +45,7 @@ During my time at University I developed skills in;
   >>>> Data analysis
   >>>>> Statistical tracking
   
- ---
+*******
 
 **Sutton Valence School - 2014-2016**
 
