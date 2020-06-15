@@ -6,6 +6,7 @@ I am looking for a company which has a great culture and is excited about their 
 
 
 <h2> Projects </h2>
+
 | Project Name | Project Picture | Project Description | Project link |
 |--------------|-----------------|------------------------------|----------|
 | Gapagbook | <img src="readme_pictures/gapagbook.png" alt="GapagBook" width="200"/>| A mock of facebook with user sign-up/sign-in and posts | https://gapag1.herokuapp.com |
