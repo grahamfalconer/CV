@@ -26,23 +26,15 @@ I am looking for a company which has a great culture and is excited about their 
 
 ___________________________________________
 
-## My time at Makers Academy
+## Technologies
 
-During my time at Makers I worked with the following technologies
- 
-| Purpose                      | Technology         |
-| ---------------------------- | :----------------- |
-| Front end framework          | React              |
-| Server framework             | Express            |
-| ORM                          | Mongoose           |
-| Language                     | Javascript, Ruby   |
-| CI/CD                        | Travis             |
-| Hosting                      | Heroku, Surge      |
-| Databases                    | MongoDB, PostgreSQL |
-| Styling                      | Sass, CSS, Bulma  |
-| Testing frameworks       | Mocha, Chai, Sinon, Rspec, Jest, Enzyme, Jasmine, WilsonScript(my own), Capybara |
-| Codequality   | Rubocop, SimpleCov, Rubycritic |
-| Encryption    | Bcrypt     |
+|Technologies I have worked with|
+___________________________________
+| Ruby, Sinatra, Ruby on Rails, Javascript, Node.js, JQuery, HTML, CSS, React, Express, PostgreSQL, SQLite, MongoDB, Travis CI/CD, Rspec, Rubocop, SimpleCov, Rubycritic, Capybara, Mocha, Chai, Jest, Enzyme, Jasmine   |
+___________________________________
+|Other technologies ...|
+|Miro, Trello (Agile workflow tool), ArcGIS, ArcMaps, Microsoft Word, Microsoft Excel, Microsoft Powerpoint, Adobe Photoshop.|
+____________________________
 
 - One of the skills I am most happy to have developed during my time at makers was my ability to follow extreme programming principles, I am better able to see the value in 
 
@@ -59,21 +51,29 @@ During my time at Makers I worked with the following technologies
 ## Education
 
 **University of Birmingham - Geography (BA) 2016-2019**
-
+During my time at University I developed skills in;
+  - Statistical tracking
   - Data collection & sampling
   - Data Analysis
   - Data manipulation and presentation
-  - Mapping 
+  - Mapping
   
   
 ___________________________________________
-**Sutton Valence School - (A-levels)Geography, Business, Economics - 2014-2016**
+**Sutton Valence School - 2014-2016**
 
 During my time at Sutton Valence school:
   - I Developed skills in public speaking and entrepreneurship
   - Won the Rotary Youth Speaks public speaking award for SVS (2015)
   - Contributed towards a positive school environment by arranging after school socials for boarders
   - Captained the school swimming team in multiple galas
+
+ **(A-levels)**
+ 
+Geography - A*
+Business - A 
+Economics - B
+
 
 ___________________________________________
 **International School of Cape Town - (GCSE's) 2010-1016**
