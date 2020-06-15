@@ -65,7 +65,12 @@ I am looking for a company which has a great culture and is excited about their 
 
 <br />
 
-During my time at the University of Birmingham I was able to learn about all of the current global processes that are currently happening and was able to gain crucial skills in research as well as fantastic understanding of culture, construction of space and other spheres of learning.
+
+During my time at the University of Birmingham I was able to learn about all of the current global processes that are currently happening and was able to gain crucial skills in research and completed modules in...
+>Cultural Geographies
+>>Development Geographies
+>>> Space and Place
+
   
   <br />
   
