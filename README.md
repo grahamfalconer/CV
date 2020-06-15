@@ -1,4 +1,4 @@
-<h1 text-align: center;> Graham Falconer </h1>
+<div><h1 text-align: center;> Graham Falconer </h1><div>
 
 I am a British South-African, Full Stack Developer and graduate of the Makers Academy Bootcamp in London. During my time at Makers, I enjoyed an incredible shift in the the spectrum of what of what I thought I was capable of and have become more passionate about problem solving then ever before. I am currently looking for a job as a Junior Developer so that I can build on the skills, learn new things and to help make valid contribution to a company's success. 
 
