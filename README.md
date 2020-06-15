@@ -4,6 +4,9 @@ I am a British South-African, Full Stack Developer and graduate of the Makers Ac
 
 I am looking for a company which has a great culture and is excited about their vision so that I can can help them as they help me on my journey. My main interests in tech at the moment are machine learning, data science and AI. 
 
+<br />
+
+------------------------
 
 <h2> Projects </h2>
 
@@ -11,6 +14,10 @@ I am looking for a company which has a great culture and is excited about their 
 |--------------|-----------------|------------------------------|----------|
 | Gapagbook | <img src="readme_pictures/gapagbook.png" alt="GapagBook" width="200"/>| A mock of facebook with user sign-up/sign-in and posts | https://gapag1.herokuapp.com |
 | Mission-ctrl | <img src="readme_pictures/mission-ctrl.png" alt="Mission-ctrl" width="200"/> | A game to learn VScode shortcuts using Javascript event listeners | http://mission-ctrl.surge.sh |
+
+<br />
+
+------------------------
 
 <h2> Technologies </h2>
 
@@ -20,7 +27,10 @@ I am looking for a company which has a great culture and is excited about their 
 |**other technologies...**|
 |Miro, Trello (Agile workflow tool), ArcGIS, ArcMaps, Microsoft Word, Microsoft Excel, Microsoft Powerpoint, Adobe Photoshop.|
 
-_____________________________
+
+<br />
+
+------------------------
 
 <h2> Skills </h2>
 
@@ -33,7 +43,12 @@ _____________________________
 **Enthusiastic** - Tech has been an exciting whirlwind for me thus far and I have found enthusiasm to be my enabler in the work I do and believe in sharing that enthusiasm with the team for best results. This was present during my work on the final project at Makers where I regularly made sure everyone focussed on the wonder and the challenge aspect of what we were doing so that people felt energized going into their tasks.
 
 **Culture Oriented** - public space, geography, study of culture, talked about culture Public speaker - could go into good communicator but I have a lot on it.
-_____________________________
+
+
+<br />
+
+------------------------
+
 
 <h2> Education </h2>
 
@@ -123,6 +138,12 @@ As well as build on the foundation of understanding I had of O.D.D, the MVC and 
 - Learned about business tools for productivity and agile working
 
 - Coding... was encouraged to learn some basic coding principles by developers within the company as I discovered a passion an initial for it.
+
+
+<br />
+
+------------------------
+
 
 
 <h2> Hobbies </h2>
