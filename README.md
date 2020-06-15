@@ -4,11 +4,16 @@ I am a British South-African, Full Stack Developer and graduate of the Makers Ac
 I am looking for a company which has a great culture and is excited about their vision so that I can can help them as they help me on our journeys. My main interests in tech at the moment are machine learning, data science and AI. 
 
 
+
 ## Projects
 | Project Name | Project Picture | Project Description | Project link |
 |--------------|-----------------|------------------------------|----------|
 | Gapagbook | <img src="readme_pictures/gapagbook.png" alt="GapagBook" width="200"/>| A mock of facebook with user sign-up/sign-in and posts | https://gapag1.herokuapp.com |
 | Mission-ctrl | <img src="readme_pictures/mission-ctrl.png" alt="Mission-ctrl" width="200"/> | A game to learn VScode shortcuts using Javascript event listeners | http://mission-ctrl.surge.sh |
+
+
+
+
 
 
 ## Skills
