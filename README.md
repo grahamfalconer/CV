@@ -38,7 +38,6 @@ _____________________________
 ## Education
 
 **University of Birmingham - Geography (BA) 2016-2019**
-During my time at University I developed skills in;
   > Scientific approaches to research
   >> Data collection & sampling
   >>> Mapping
@@ -47,8 +46,6 @@ During my time at University I developed skills in;
   
 
 **Sutton Valence School - 2014-2016**
-
-During my time at Sutton Valence school I:
   > Developed skills in public speaking and entrepreneurship
   >> Won the Rotary Youth Speaks public speaking award for SVS (2015)
   >>> Contributed towards a positive school environment by arranging after school socials for boarders
@@ -63,9 +60,7 @@ During my time at Sutton Valence school I:
 | Biology (AS) | B |
 
 **International School of Cape Town - (GCSE's) 2010-1016**
-
-During mt time at the International School of Cape Town I:
-  > I did weekly charity work in the township of Masiphumelele where I was able to work with children who live in extreme circumstances and educate them on the values of community, respect and togetherness.
+  > Participated in weekly charity work in the township of Masiphumelele where I was able to work with children who live in extreme circumstances and educate them on the values of community, respect and togetherness.
 >> Played in the schools first futsal team
 >>> Trained as a lifeguard on Camps Bay Beach where I learned emergency protocols and how to stay vigilient in busy times 
 
