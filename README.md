@@ -1,18 +1,17 @@
-<div><h1 text-align: center;> Graham Falconer </h1><div>
+<h1> Graham Falconer </h1>
 
 I am a British South-African, Full Stack Developer and graduate of the Makers Academy Bootcamp in London. During my time at Makers, I enjoyed an incredible shift in the the spectrum of what of what I thought I was capable of and have become more passionate about problem solving then ever before. I am currently looking for a job as a Junior Developer so that I can build on the skills, learn new things and to help make valid contribution to a company's success. 
 
 I am looking for a company which has a great culture and is excited about their vision so that I can can help them as they help me on our journeys. My main interests in tech at the moment are machine learning, data science and AI. 
 
 
-
-## Projects
+<h2> Projects </h2>
 | Project Name | Project Picture | Project Description | Project link |
 |--------------|-----------------|------------------------------|----------|
 | Gapagbook | <img src="readme_pictures/gapagbook.png" alt="GapagBook" width="200"/>| A mock of facebook with user sign-up/sign-in and posts | https://gapag1.herokuapp.com |
 | Mission-ctrl | <img src="readme_pictures/mission-ctrl.png" alt="Mission-ctrl" width="200"/> | A game to learn VScode shortcuts using Javascript event listeners | http://mission-ctrl.surge.sh |
 
-## Technologies
+<h2> Technologies </h2>
 
 |**Programming**|
 |--------------------------------|
@@ -22,7 +21,7 @@ I am looking for a company which has a great culture and is excited about their 
 
 _____________________________
 
-## Skills
+<h2> Skills </h2>
 
 **Problem-solver** - Tech is providing me with an awesome scope of challenges, each one allowing me to utilize a subset of problem-solving skills, such as my curiosity, determination, and idea-formulation. This was present in my Maker's challenges as I actively came up with new ways to debug the problem and provided innovative solutions of my own that would help us move forward.
 
@@ -35,9 +34,9 @@ _____________________________
 **Culture Oriented** - public space, geography, study of culture, talked about culture Public speaker - could go into good communicator but I have a lot on it.
 _____________________________
 
-## Education
+<h2> Education </h2>
 
-**University of Birmingham - Geography (BA) 2016-2019**
+<h3> University of Birmingham - Geography (BA) 2016-2019 </h3>
   > Practiced hands on scientific approaches to research
   >> Data collection & sampling
   >>> Mapping
@@ -45,13 +44,13 @@ _____________________________
   >>>>> Statistical tracking
   
 
-**Sutton Valence School - 2014-2016**
+<h3> Sutton Valence School - 2014-2016** </h3>
   > Developed skills in public speaking and entrepreneurship
   >> Won the Rotary Youth Speaks public speaking award for SVS (2015)
   >>> Contributed towards a positive school environment by arranging after school socials for boarders
   >>>> Captained the school swimming team in multiple galas
 
- **(A-levels)**
+ *(A-levels)*
 |Subject| Grade |
  |------|--------|
 | Geography | A* |
@@ -60,12 +59,12 @@ _____________________________
 | Biology (AS) | B |
 
 
-**International School of Cape Town - (GCSE's) 2010-1016**
+<h3> International School of Cape Town - (GCSE's) 2010-1016** </h3>
   > Participated in weekly charity work in the township of Masiphumelele where I was able to work with children who live in extreme circumstances and educate them on the values of community, respect and togetherness.
 >> Played in the schools first futsal team
 >>> Trained as a lifeguard on Camps Bay Beach where I learned emergency protocols and how to stay vigilient in busy times 
 
-**IGCSE's (CIE)**
+*IGCSE's (CIE)*
 
 |Subject | Grade |
 |--------|------|
@@ -80,9 +79,9 @@ _____________________________
 | Art | C |
 
 ___________________________________________
-## Experience
+<h2> Experience </h2>
 
-**Makers Academy** (February 2020 - June 2020)    
+<h3> Makers Academy (February 2020 - June 2020) </h3> 
 
 *Junior Developer*  
 
@@ -97,7 +96,7 @@ As well as build on the foundation of understanding I had of O.D.D, the MVC and 
 
 
 
-**Minutz Management (Work experience)** 
+<h3> Minutz Management (Work experience) </h3>
 
 *Work Experience*  
 - Got to work side by side with developers in preparing a product for our client
@@ -105,7 +104,7 @@ As well as build on the foundation of understanding I had of O.D.D, the MVC and 
 
 
 
-**Scientrix (Work experience)** 
+<h3> Scientrix (Work experience) </h3>
 
 *Work Experience*  
 - Developed models using the Scientrix business matrix strategy tool,
@@ -114,6 +113,6 @@ As well as build on the foundation of understanding I had of O.D.D, the MVC and 
 - Coding... was encouraged to learn some basic coding principles by developers within the company as I discovered a passion an initial for it.
 
 
-## Hobbies
+<h2> Hobbies </h2>
 
 I love travel, nature, hiking and the occassional braai.
