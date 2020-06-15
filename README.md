@@ -15,16 +15,22 @@ I am looking for a company which has a great culture and is excited about their 
 
 **Problem-solver** -Tech is providing me with an awesome scope of challenges, each allowing me to utilise a subset of problem-solving skills I have such as my curiosity, determination and idea-formulation. This was present in my Makers challenges as I actively came up with new ways to debug the problem and provided innovative solutions of my own that would help us move forward.
 
+_____________________________
+
 **Good communicator** - I have always been recognised as an optimistic and outgoing person by my peers and have regularly been put forward for roles involving demonstrations, negotiations and public-speaking. This has allowed me to become a great story-teller who can help motivate and inspire with my words.
+
+_____________________________
 
 **Flexibility** - This is arguably the skill I resonate with the most, having lived in 6 different countries by the age of 22 (New Zealand, South Africa, Kuwait, Bahrain, England & Scotland) I am no stranger to change and the difficulties that come with it. I have always been able to quickly establish and integrate myself into new cultures. This was present during my move from school in Cape Town to Sutton Valence where in my 2 years I became an active member in multiple sports teams and other societies where I was be able to represent the school.
 
+_____________________________
+
 **Enthusiastic** - Tech has been an exciting whirlwind for me thus far and I have found enthusiasm to be my enabler in the work I do and believe in sharing that enthusiasm with the team for best results. This was present during my work on the final project at Makers where I regularly made sure everyone focussed on the wonder and the challenge aspect of what we were doing so that people felt energised going into their tasks. 
+
+_____________________________
 
 **Culture Oriented** - public space, geography, study of culture, talked about culture Public speaker - could go into good communicator but I have a lot on it.
 
-
-___________________________________________
 
 ## Technologies
 
@@ -74,7 +80,6 @@ During mt time at the International School of Cape Town:
 ## Experience
 
 **Makers Academy** (February 2020 - June 2020)    
-_____________________________
 
 *Junior Developer*  
 
@@ -87,12 +92,15 @@ During my time on the course I got to practise some fundamental programming proc
 
 As well as build on the foundation of understanding I had of O.D.D, the MVC and how my code should all fit and work together. 
 
+_____________________________
 
 **Minutz Management (Work experience)** 
 
 *Work Experience*  
 - Got to work side by side with developers in preparing a product for our client
 - Created presentations for clients
+
+_____________________________
 
 **Scientrix (Work experience)** 
 
@@ -101,6 +109,7 @@ As well as build on the foundation of understanding I had of O.D.D, the MVC and 
 - Learned about business tools for productivity and agile working
 
 - Coding... was encouraged to learn some basic coding principles by developers within the company as I discovered a passion an initial for it.
+
 
 ## Hobbies
 
