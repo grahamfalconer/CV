@@ -47,9 +47,9 @@ _____________________________
 **University of Birmingham - Geography (BA) 2016-2019**
 During my time at University I developed skills in;
   - Statistical tracking
-  - Data collection & sampling
-  - Data Analysis
-  - Data manipulation and presentation
+  >- Data collection & sampling
+  >>- Data Analysis
+  >>>- Data manipulation and presentation
   - Mapping
   
   
