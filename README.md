@@ -45,8 +45,10 @@ _____________________________
   >>>> Data analysis
   >>>>> Statistical tracking
   
+  <br />
+  
 
-<h3> Sutton Valence School - 2014-2016** </h3>
+<h3> Sutton Valence School - 2014-2016 </h3>
 
   > Developed skills in public speaking and entrepreneurship
   >> Won the Rotary Youth Speaks public speaking award for SVS (2015)
@@ -61,8 +63,9 @@ _____________________________
 | Economics | B |
 | Biology (AS) | B |
 
+<br />
 
-<h3> International School of Cape Town - (GCSE's) 2010-1016** </h3>
+<h3> International School of Cape Town - (GCSE's) 2010-1016 </h3>
 
   > Participated in weekly charity work in the township of Masiphumelele where I was able to work with children who live in extreme circumstances and educate them on the values of community, respect and togetherness.
 >> Played in the schools first futsal team
