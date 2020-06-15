@@ -29,12 +29,12 @@ ___________________________________________
 ## Technologies
 
 |Technologies I have worked with|
---------------------------------
+|--------------------------------|
 | Ruby, Sinatra, Ruby on Rails, Javascript, Node.js, JQuery, HTML, CSS, React, Express, PostgreSQL, SQLite, MongoDB, Travis CI/CD, Rspec, Rubocop, SimpleCov, Rubycritic, Capybara, Mocha, Chai, Jest, Enzyme, Jasmine   |
---------------------------------
-|Other technologies ...|
+|Other Technologies|
+|------------------|
 |Miro, Trello (Agile workflow tool), ArcGIS, ArcMaps, Microsoft Word, Microsoft Excel, Microsoft Powerpoint, Adobe Photoshop.|
---------------------------------
+
 
 - One of the skills I am most happy to have developed during my time at makers was my ability to follow extreme programming principles, I am better able to see the value in 
 
