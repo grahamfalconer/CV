@@ -1,6 +1,6 @@
 <h1> Graham Falconer </h1>
 
-[LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") | [CodeWars](https://www.codewars.com/users/grahamcodes98 "Grahams CodeWars")
+[LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") | [CodeWars](https://www.codewars.com/users/grahamcodes98 "Grahams CodeWars") | <a> My Website (under construction) </a>
 
 
 I am a British South-African, Full Stack Developer and graduate of the Makers Academy Bootcamp in London. During my time at Makers, I enjoyed an incredible shift in the the spectrum of what of what I thought I was capable of and have become more passionate about problem solving then ever before. I am currently looking for a job as a Junior Developer so that I can build on these skills, learn new things and to help make valid contribution to a company's success. 
@@ -17,6 +17,8 @@ I am looking for a company which has a great culture and is excited about their 
 |--------------|-----------------|------------------------------|----------|
 | Gapagbook | <img src="readme_pictures/gapagbook.png" alt="GapagBook" width="200"/>| A mock of facebook with user sign-up/sign-in and posts | https://gapag1.herokuapp.com |
 | Mission-ctrl | <img src="readme_pictures/mission-ctrl.png" alt="Mission-ctrl" width="200"/> | A game to learn VScode shortcuts using Javascript event listeners | http://mission-ctrl.surge.sh |
+| InstaGraham | <img src="readme_pictures/instagraham.png" alt="InstaGraham" width="200"/> | A mock of Instagram, done as a weekend challenge | https://github.com/grahamfalconer/instagram-challenge |
+| Best Quality Vacuum | picture here | Just a simple vacuum site? or so it seems... | http://bestqualityvacuum.surge.sh/ |
 
 <br />
 
@@ -66,7 +68,7 @@ I am looking for a company which has a great culture and is excited about their 
 <br />
 
 
-During my time at the University of Birmingham I was able to learn about all of the current global processes that are currently happening and was able to gain crucial skills in research and completed modules in...
+During my time at the University of Birmingham I was able to learn about current global processes and was able to gain crucial skills in research, completing modules in...
 * Cultural Geographies
 * Development Geographies
 * Space: A contemporary issue
