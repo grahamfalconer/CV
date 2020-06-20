@@ -14,7 +14,7 @@ I am looking for a company which has a great culture and is excited about their 
 <h2> Projects </h2>
 
 | Project Name | Project Picture | Project Description | Project link | Status |
-|--------------|-----------------|------------------------------|----------|
+|--------------|-----------------|------------------------------|----------|----|
 | Gapagbook | <img src="readme_pictures/gapagbook.png" alt="GapagBook" width="200"/>| A mock of facebook with user sign-up/sign-in and posts | https://gapag1.herokuapp.com | Complete |
 | Mission-ctrl | <img src="readme_pictures/mission-ctrl.png" alt="Mission-ctrl" width="200"/> | A game to learn VScode shortcuts using Javascript event listeners | http://mission-ctrl.surge.sh | Complete |
 | Best Quality Vacuum |<img src="readme_pictures/bestqualityvacuum.png" alt="Vacuum-site" width="200"/> | Just a simple vacuum site? or so it seems... | http://bestqualityvacuum.surge.sh/ | In construction |
