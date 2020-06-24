@@ -55,6 +55,44 @@ My main interests in tech at the moment are machine learning, data science and A
 
 ------------------------
 
+<h2> Experience </h2>
+
+<h3> Makers Academy (February 2020 - June 2020) </h3> 
+
+*Junior Developer*  
+
+During my time on the course I got to practise some fundamental programming processes such as; 
+
+**T.D.D** : I would write tests for the code that I wrote. This allowed me to be able to solve complex problems through a methodical process as well as stay organised and ontop of task at hand.
+
+**Agile Workflow** : Events such as standups, scrums and check-ins were used regularly. This is to follow modern methodologies on how we should programme and to help to abide by the Extreme Programming Principles; feedback, respect, courage, communication and simplicity.
+
+
+As well as build on the foundation of understanding I had of O.D.D, the MVC and how my code should all fit and work together. 
+
+
+
+<h3> Minutz Management (Work experience) </h3>
+
+*Work Experience*  
+- Got to work side by side with developers in preparing a product for our client
+- Created presentations for clients
+
+
+
+<h3> Scientrix (Work experience) </h3>
+
+*Work Experience*  
+- Developed models using the Scientrix business matrix strategy tool,
+- Learned about business tools for productivity and agile working
+
+- Coding... was encouraged to learn some basic coding principles by developers within the company as I discovered a passion for it.
+
+
+<br />
+
+------------------------
+
 
 <h2> Education </h2>
 
@@ -121,45 +159,6 @@ During my time at the University of Birmingham I was able to learn about current
 | Art | C |
 
 ___________________________________________
-<h2> Experience </h2>
-
-<h3> Makers Academy (February 2020 - June 2020) </h3> 
-
-*Junior Developer*  
-
-During my time on the course I got to practise some fundamental programming processes such as; 
-
-**T.D.D** : I would write tests for the code that I wrote. This allowed me to be able to solve complex problems through a methodical process as well as stay organised and ontop of task at hand.
-
-**Agile Workflow** : Events such as standups, scrums and check-ins were used regularly. This is to follow modern methodologies on how we should programme and to help to abide by the Extreme Programming Principles; feedback, respect, courage, communication and simplicity.
-
-
-As well as build on the foundation of understanding I had of O.D.D, the MVC and how my code should all fit and work together. 
-
-
-
-<h3> Minutz Management (Work experience) </h3>
-
-*Work Experience*  
-- Got to work side by side with developers in preparing a product for our client
-- Created presentations for clients
-
-
-
-<h3> Scientrix (Work experience) </h3>
-
-*Work Experience*  
-- Developed models using the Scientrix business matrix strategy tool,
-- Learned about business tools for productivity and agile working
-
-- Coding... was encouraged to learn some basic coding principles by developers within the company as I discovered a passion for it.
-
-
-<br />
-
-------------------------
-
-
 
 <h2> Hobbies </h2>
 
