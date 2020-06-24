@@ -161,4 +161,4 @@ As well as build on the foundation of understanding I had of O.D.D, the MVC and 
 
 <h2> Hobbies </h2>
 
-I love travel, nature, hiking and the occassional braai.
+I like football, travel, nature and the occassional braai.
