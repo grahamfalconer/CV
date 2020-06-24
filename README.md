@@ -150,7 +150,7 @@ As well as build on the foundation of understanding I had of O.D.D, the MVC and 
 - Developed models using the Scientrix business matrix strategy tool,
 - Learned about business tools for productivity and agile working
 
-- Coding... was encouraged to learn some basic coding principles by developers within the company as I discovered a passion an initial for it.
+- Coding... was encouraged to learn some basic coding principles by developers within the company as I discovered a passion for it.
 
 
 <br />
