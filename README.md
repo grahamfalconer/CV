@@ -14,7 +14,7 @@ My main interests in tech at the moment are machine learning, data science and A
 
 ------------------------
 
-<h2> Projects </h2>
+<h2 id="Projects"> Projects </h2>
 
 | Project Name | Project Picture | Project Description | Project link | Status |
 |--------------|-----------------|------------------------------|----------|----|
@@ -26,7 +26,7 @@ My main interests in tech at the moment are machine learning, data science and A
 
 ------------------------
 
-<h2> Technologies </h2>
+<h2 id="Technologies"> Technologies </h2>
 
 |**Programming**|
 |--------------------------------|
@@ -39,7 +39,7 @@ My main interests in tech at the moment are machine learning, data science and A
 
 ------------------------
 
-<h2> Skills </h2>
+<h2 id="Skills"> Skills </h2>
 
 **Problem-solver** - Tech is providing me with an awesome scope of challenges, each one allowing me to utilize a subset of problem-solving skills, such as my curiosity, determination, and idea-formulation. This was present in my Maker's challenges as I actively came up with new ways to debug the problem and provided innovative solutions of my own that would help us move forward.
 
@@ -56,7 +56,7 @@ My main interests in tech at the moment are machine learning, data science and A
 
 ------------------------
 
-<h2> Experience </h2>
+<h2 id="Experience"> Experience </h2>
 
 <h3> Makers Academy (February 2020 - June 2020) </h3> 
 
