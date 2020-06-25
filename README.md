@@ -1,7 +1,7 @@
 <h1> Graham Falconer </h1>
 
 
-[Projects](#Projects) | [Technologies](#Technologies) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | |[LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") | [CodeWars](https://www.codewars.com/users/grahamcodes98 "Grahams CodeWars") | <a> My Website (under construction) </a>
+[Projects](#Projects) | [Technologies](#Technologies) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") | [CodeWars](https://www.codewars.com/users/grahamcodes98 "Grahams CodeWars") | <a> My Website (under construction) </a>
 
 
 I am a British South-African, Full Stack Developer and graduate of the Makers Academy Bootcamp in London. I am currently looking for a job as a Junior Developer so that I can build on these skills, learn new things and to help make valid contribution to a company's success. 
