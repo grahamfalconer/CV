@@ -95,7 +95,7 @@ As well as build on the foundation of understanding I had of O.D.D, the MVC and 
 ------------------------
 
 
-<h2> Education </h2>
+<h2 id="Education"> Education </h2>
 
 <h3> University of Birmingham - Geography (BA) 2016-2019 </h3>
 
