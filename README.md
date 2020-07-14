@@ -30,7 +30,7 @@ My main interests in tech at the moment are machine learning, data science and A
 
 |**Programming**|
 |--------------------------------|
-| Ruby, Sinatra, Ruby on Rails, Javascript, Node.js, JQuery, HTML, CSS, React, Express, PostgreSQL, SQLite, MongoDB, Docker, Travis CI/CD, Rspec, Rubocop, SimpleCov, Rubycritic, Capybara, Mocha, Chai, Jest, Enzyme, Jasmine   |
+| Ruby, Sinatra, Ruby on Rails, Javascript, Node.js, JQuery, HTML, CSS, React.js, React Native, xCode, Expo, Express, PostgreSQL, SQLite, MongoDB, Docker, Travis CI/CD, Mocha, Chai, Jest, Enzyme, Jasmine, Rspec, Rubocop, SimpleCov, Rubycritic, Capybara |
 |**other technologies...**|
 |Miro, Trello (Agile workflow tool), ArcGIS, ArcMaps, Microsoft Word, Microsoft Excel, Microsoft Powerpoint, Adobe Photoshop.|
 
