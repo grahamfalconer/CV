@@ -113,6 +113,14 @@ During my time at the University of Birmingham I was able to learn about current
 * Economic Geographies
 * Space
 
+<details>
+<summary> Grades Achieved </summary>
+<br>
+ Geography CofHE - 2:1
+ *DNF - Left due to health complications in Sept 2018, remained as a registered student till Feb 2019*
+
+ 
+</details>
   
   <br />
   
