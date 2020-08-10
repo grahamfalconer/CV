@@ -147,6 +147,12 @@ During my time at the University of Birmingham I was able to learn about current
 
 <br />
 
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+
 *IGCSE's (CIE)*
 
 |Subject | Grade |
