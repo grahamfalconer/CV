@@ -128,6 +128,9 @@ During my time at the University of Birmingham I was able to learn about current
 
 <br />
 
+<details>
+<summary> Grades Achieved </summary>
+<br>
  *(A-levels)*
  
 |Subject| Grade |
@@ -136,6 +139,8 @@ During my time at the University of Birmingham I was able to learn about current
 | Business | A | 
 | Economics | B |
 | Biology (AS) | B |
+
+</details>
 
 <br />
 
