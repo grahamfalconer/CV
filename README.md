@@ -183,4 +183,4 @@ ___________________________________________
 
 <h2> Hobbies </h2>
 
-I like football, travel, nature and the occassional braai.
+As well as coding in my freetime I also enjoy other activities such as camping, rock-climbing and swimming.
