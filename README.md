@@ -148,11 +148,8 @@ During my time at the University of Birmingham I was able to learn about current
 <br />
 
 <details>
-<summary>How do I dropdown?</summary>
+<summary> Grades Achieved </summary>
 <br>
-This is how you dropdown.
-</details>
-
 *IGCSE's (CIE)*
 
 |Subject | Grade |
@@ -166,6 +163,8 @@ This is how you dropdown.
 | English Literature | B |
 | French | B |
 | Art | C |
+</details>
+
 
 ___________________________________________
 
