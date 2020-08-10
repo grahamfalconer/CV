@@ -110,7 +110,8 @@ As well as build on the foundation of understanding I had of O.D.D, the MVC and 
 During my time at the University of Birmingham I was able to learn about current global processes and was able to gain crucial skills in research, completing modules in...
 * Cultural Geographies
 * Development Geographies
-* Space: A contemporary issue
+* Economic Geographies
+* Space
 
   
   <br />
@@ -119,9 +120,11 @@ During my time at the University of Birmingham I was able to learn about current
 <h3> Sutton Valence School - 2014-2016 </h3>
 
   > Developed skills in public speaking and entrepreneurship
-  >> Won the Rotary Youth Speaks public speaking award for SVS (2015)
-  >>> Contributed towards a positive school environment by arranging after school socials for boarders
-  >>>> Captained the school swimming team in multiple galas
+  >> Lead the sales team for the Young Entrepreneurs
+  >>> 1st in the Rotary Youth Speaks public speaking award for SVS (2015)
+  >>>> 1st in Model United Nations debate (2016)
+  >>>>> Captained the school swimming team in multiple galas victories
+  >>>>>>  Contributed towards a positive school environment by arranging after school socials for boarders 
 
 <br />
 
