@@ -129,9 +129,9 @@ During my time at the University of Birmingham I was able to learn about current
 
   > Developed skills in public speaking and entrepreneurship
   >> Lead the sales team for the Young Entrepreneurs
-  >>> 1st in the Rotary Youth Speaks public speaking award for SVS (2015)
+  >>> 1st in the Rotary Youth Speaks Public Speaking Competition (2015)
   >>>> 1st in Model United Nations debate (2016)
-  >>>>> Captained the school swimming team in multiple galas victories
+  >>>>> Captained the school swimming team in multiple gala victories
   >>>>>>  Contributed towards a positive school environment by arranging after school socials for boarders 
 
 <br />
