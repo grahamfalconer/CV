@@ -22,6 +22,7 @@ My main interests in tech at the moment are machine learning, data science and A
 | Mission-ctrl | A game to learn VScode shortcuts using Javascript event listeners | http://mission-ctrl.surge.sh | Complete |
 | Best Quality Vacuum | Just a simple vacuum site? or so it seems... ( Try discount code 'El Camino' at checkout ), this project was built to replicate "The Dissapearers" vacuum store from Breaking Bad| http://bestqualityvacuum.surge.sh/ | under construction |
 | Grahams to-do's | A simple javascript to-do list with rewarding tick offs | http://grahams-todos.surge.sh/ | Complete |
+| Henrys notes | A notepad fit for a king! Built using javascript | http://henryviii-notes.surge.sh/#list | Complete |
 
 <br />
 
