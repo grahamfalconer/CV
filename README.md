@@ -9,8 +9,8 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate c
 
 | Project Name | Project Description | Project link | Status |
 |--------------|------------------------------|----------|----|
-| Gapagbook | A mock of facebook with user sign-up/sign-in and posts | https://gapag1.herokuapp.com | Complete |
 | Mission-ctrl | A game to learn VScode shortcuts using Javascript event listeners | http://mission-ctrl.surge.sh | Complete |
+| Gapagbook | A mock of facebook with user sign-up/sign-in and posts | https://gapag1.herokuapp.com | Complete |
 | Best Quality Vacuum | Just a simple vacuum site? or so it seems... ( Try discount code 'El Camino' at checkout ), this project was built to replicate "The Dissapearers" vacuum store from Breaking Bad| http://bestqualityvacuum.surge.sh/ | under construction |
 | Grahams to-do's | A simple javascript to-do list with rewarding tick offs | http://grahams-todos.surge.sh/ | Complete |
 | Henrys notes | A notepad fit for a king! Built using javascript | http://henryviii-notes.surge.sh/#list | Complete |
