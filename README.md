@@ -89,9 +89,9 @@ Worked on projects
 <h3> University of Birmingham - Geography (BA) 2016-2019 </h3>
 
   > Skills Developed
-  >> Data collection & analysis
-  >> Presentation and Public speaking
-  >> Mapping
+  > -  Data collection & analysis
+  > - Presentation and Public speaking
+  > - Mapping
 
 <br />
 
