@@ -1,14 +1,8 @@
 <h1> Graham Falconer </h1>
 
-
 [Projects](#Projects) | [Technologies](#Technologies) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") | [CodeWars](https://www.codewars.com/users/grahamcodes98 "Grahams CodeWars") | 
 
-
-I am a British South-African, Full Stack Developer and graduate of the Makers Academy Bootcamp in London. I am currently looking for a job as a Junior Developer so that I can build on these skills, learn new things and to help make valid contribution to a company's success. 
-
-At Makers, I enjoyed an incredible shift in the the spectrum of what of what I thought I was capable of and have become more passionate about problem solving then ever before. I am now looking for a company which has a great culture and is excited about their vision so that I can can help them as they help me on my journey!
- 
-My main interests in tech at the moment are machine learning, data science and AI. 
+I am a British South-African, Full Stack Developer and Makers Academy Graduate.
 
 <br />
 
@@ -43,11 +37,11 @@ My main interests in tech at the moment are machine learning, data science and A
 
 <h2 id="Skills"> Skills </h2>
 
-**Creative Problem Solving** - Tech is providing me with an awesome scope of challenges, each one allowing me to utilize a subset of problem-solving skills, such as my determination, curiosity, and creativity. I especially enjoyed utilizing these skills at Makers as before my coding had been an entirely solo effort however during my time at Makers I was able to verbalize my ideas and brainstorm them together with other people's, this lead to the group making an awesome breakthrough in our final project, where with everyones suggestions I was able to create custom Javascript Event listeners far sooner then we had budgeted for.
+**Creative Problem Solving** - Tech is providing me with unique challenges each day, and allowing me to have to take  
 
 **Strong communication** - I have always been recognized as an optimistic and outgoing person by my peers and have regularly been put forward for roles involving demonstrations, negotiations, and public speaking. This has not only been in the projects I have done at Makers, but extends further to University where I regularly had to give presentations on the results of our data as well as answer questions from the floor and also in school where I won the Rotary Speaks Youth competition as well as the Model United Nations debate for Sutton Valence. Practicing my communication in this way has allowed me to become a great story-teller who can help motivate and inspire with my words.
 
-**Highlt Adaptbale** - This is arguably the skill I resonate with the most, having lived in 6 different countries by the age of 22 (New Zealand, South Africa, Kuwait, Bahrain, England & Scotland) as well as having attended 9 schools in that time, its fair to say I am no stranger to change and the difficulties that come with it. I have always been quick to establish and integrate myself into new cultures. This was present during my move from school in Cape Town to Sutton Valence, wherein my 2 years I became an active member in multiple sports teams and other societies where I was able to represent my school.
+**Adaptable** - This is arguably the skill I resonate with the most, having lived in 6 different countries by the age of 22 (New Zealand, South Africa, Kuwait, Bahrain, England & Scotland) as well as having attended 9 schools in that time, its fair to say I am no stranger to change and the difficulties that come with it. I have always been quick to establish and integrate myself into new cultures. This was present during my move from school in Cape Town to Sutton Valence, wherein my 2 years I became an active member in multiple sports teams and other societies where I was able to represent my school.
 
 
 <br />
@@ -98,18 +92,19 @@ As well as build on the foundation of understanding I had of O.D.D, the MVC and 
 
   > Skills Developed
   >> Data collection & sampling
-  >>> Mapping
-  >>>> Data analysis
-  >>>>> Statistical tracking
+  >> Mapping
+  >> Data analysis
+  >> Statistical tracking
 
 <br />
 
 
 During my time at the University of Birmingham I was able to learn about current global processes and was able to gain crucial skills in research, completing modules in...
-* Cultural Geographies
-* Development Geographies
-* Economic Geographies
-* Space
+>
+>> Cultural Geographies
+>>Development Geographies
+>>Economic Geographies
+>>Space
 
 <details>
 <summary> Grades Achieved </summary>
@@ -126,8 +121,8 @@ During my time at the University of Birmingham I was able to learn about current
 <h3> Sutton Valence School - 2014-2016 </h3>
 
   > Developed skills in public speaking and entrepreneurship
-  >> Lead the sales team for the Young Entrepreneurs
-  >>> 1st in the Rotary Youth Speaks Public Speaking Competition (2015)
+  > Lead the sales team for the Young Entrepreneurs
+  > 1st in the Rotary Youth Speaks Public Speaking Competition (2015)
   >>>> 1st in Model United Nations debate (2016)
   >>>>> Captained the school swimming team in multiple gala victories
   >>>>>>  Contributed towards a positive school environment by arranging after school socials for boarders 
