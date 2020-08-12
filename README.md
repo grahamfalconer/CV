@@ -38,7 +38,7 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate c
 
 **Adaptable** - Having lived in 6 different countries by the age of 22 (New Zealand, South Africa, Kuwait, Bahrain, England & Scotland) as well as having attended 9 schools in that time, its fair to say I am no stranger to change and the difficulties that come with it. I have always been quick to establish and integrate myself into new cultures and keen to participate in them.
 
-**Enthusiastic** - Tech has been an exciting whirlwind for me thus far and I have found enthusiasm to be my enabler in the work I do and believe in sharing that enthusiasm with the team for best results. As mentioned in Steven R. Covey's '7 Habits of Highly Effective People' "We work best when others work well".
+**Enthusiastic** - Tech has been an exciting whirlwind for me thus far and I have found enthusiasm to be my enabler in the work I do and believe in sharing that enthusiasm with the team for best results. It has also helped me overcome many obstacles because of the energy and drive it allows me to have when confronted with complex problems.
 
 <br />
 
