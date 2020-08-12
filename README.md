@@ -53,21 +53,21 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate.
 <h3> Makers Academy (March 2020 - June 2020) </h3> 
 
 *Junior Developer*  
+Skills:
 
-During my time on the course I got to practise some fundamental programming processes such as; 
+**T.D.D** : Experienced in unit and feature testing applications as well as related methodologies.
 
-**T.D.D** : I would write tests for the code that I wrote. This allowed me to be able to solve complex problems through a methodical process as well as stay organised and ontop of task at hand.
+**Agile Workflow** : Standups,Scrums,Check-ins; 
 
-**Agile Workflow** : Events such as standups, scrums and check-ins were used regularly. This is to follow modern methodologies on how we should programme and to help to abide by the Extreme Programming Principles; feedback, respect, courage, communication and simplicity.
-
-
-As well as build on the foundation of understanding I had of O.D.D, the MVC and how my code should all fit and work together. 
+Followed Extreme Programming Principles(X.P.P); feedback, respect, courage, communication and simplicity.
+Learned 
+Worked on projects
 
 
 <h3> Scientrix (Work experience) </h3>
 
 *Work Experience*  
-- Developed models using the Scientrix business matrix strategy tool,
+- Gained client 
 - Learned about business tools for productivity and agile working
 
 - Coding... was encouraged to learn some basic coding principles by developers within the company as I discovered a passion for it.
