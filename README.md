@@ -89,7 +89,7 @@ _Relevant modules_
 <details>
 <summary> Grades Achieved </summary>
 <br>
- Geography CofHE - 2:1
+ Geography CofHE -
  *DNF - Left due to health complications in Sept 2018, remained as a registered student till Feb 2019*
 
  
