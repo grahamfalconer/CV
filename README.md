@@ -51,6 +51,7 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate c
 <h3> Makers Academy (March 2020 - June 2020) </h3> 
 
 *Junior Developer*  
+
 Skills:
 
 **T.D.D** : Experienced in unit and feature testing applications as well as related methodologies.
