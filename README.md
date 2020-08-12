@@ -136,9 +136,9 @@ During my time at the University of Birmingham I was able to learn about current
 
 <h3> International School of Cape Town - (GCSE's) 2010-1016 </h3>
 
-  > Participated in weekly charity work in the township of Masiphumelele where I was able to work with children who live in extreme circumstances and educate them on the values of community, respect and togetherness.
->> Played in the schools first futsal team
->>> Trained as a lifeguard on Camps Bay Beach where I learned emergency protocols and how to stay vigilient in busy times 
+  > - Participated in weekly charity work in the township of Masiphumelele where I was able to work with children who live in extreme circumstances and educate them on the values of community, respect and togetherness.
+> -  Played in the schools first futsal team
+> -  Trained as a lifeguard on Camps Bay Beach where I learned emergency protocols and how to stay vigilient in busy times 
 
 <br />
 
