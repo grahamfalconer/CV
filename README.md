@@ -37,12 +37,11 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate.
 
 <h2 id="Skills"> Skills </h2>
 
-**Creative Problem Solving** - Tech is providing me with unique challenges each day, and allowing me to have to take  
+**Strong communication** - I have always been recognized as an optimistic and outgoing person by my peers and have regularly been put forward for roles involving demonstrations, negotiations, and public speaking. This has not only been in the projects I have done at Makers, but extends further to University where I regularly had to give presentations on the results of our projects. In school I was also able win the Model United Nations(M.U.N) debate and the Rotary Youth Speaks public speaking competition. Practicing my communication in this way has allowed me to become a great story-teller who can help motivate and inspire with my words.
 
-**Strong communication** - I have always been recognized as an optimistic and outgoing person by my peers and have regularly been put forward for roles involving demonstrations, negotiations, and public speaking. This has not only been in the projects I have done at Makers, but extends further to University where I regularly had to give presentations on the results of our data as well as answer questions from the floor and also in school where I won the Rotary Speaks Youth competition as well as the Model United Nations debate for Sutton Valence. Practicing my communication in this way has allowed me to become a great story-teller who can help motivate and inspire with my words.
+**Adaptable** - Having lived in 6 different countries by the age of 22 (New Zealand, South Africa, Kuwait, Bahrain, England & Scotland) as well as having attended 9 schools in that time, its fair to say I am no stranger to change and the difficulties that come with it. I have always been quick to establish and integrate myself into new cultures and keen to participate in them.
 
-**Adaptable** - This is arguably the skill I resonate with the most, having lived in 6 different countries by the age of 22 (New Zealand, South Africa, Kuwait, Bahrain, England & Scotland) as well as having attended 9 schools in that time, its fair to say I am no stranger to change and the difficulties that come with it. I have always been quick to establish and integrate myself into new cultures. This was present during my move from school in Cape Town to Sutton Valence, wherein my 2 years I became an active member in multiple sports teams and other societies where I was able to represent my school.
-
+**Enthusiastic** - Tech has been an exciting whirlwind for me thus far and I have found enthusiasm to be my enabler in the work I do and believe in sharing that enthusiasm with the team for best results. As mentioned in Steven R. Covey's '7 Habits of Highly Effective People' "We work best when others work well".
 
 <br />
 
@@ -67,10 +66,10 @@ Worked on projects
 <h3> Scientrix (Work experience) </h3>
 
 *Work Experience*  
-- Gained client 
-- Learned about business tools for productivity and agile working
-
-- Coding... was encouraged to learn some basic coding principles by developers within the company as I discovered a passion for it.
+- Gained client facing experience
+- Worked in a consultant environment with large firms and retailers
+- Learned about business tools for productivity
+- Coding, was encouraged to learn some basic programming principles by developers within the company as I discovered a passion for it.
 
 
 <h3> Minutz Management (Work experience) </h3>
@@ -91,10 +90,9 @@ Worked on projects
 <h3> University of Birmingham - Geography (BA) 2016-2019 </h3>
 
   > Skills Developed
-  >> Data collection & sampling
+  >> Data collection & analysis
+  >> Presentation and Public speaking
   >> Mapping
-  >> Data analysis
-  >> Statistical tracking
 
 <br />
 
@@ -119,13 +117,13 @@ During my time at the University of Birmingham I was able to learn about current
   
 
 <h3> Sutton Valence School - 2014-2016 </h3>
-
-  > Developed skills in public speaking and entrepreneurship
-  > Lead the sales team for the Young Entrepreneurs
-  > 1st in the Rotary Youth Speaks Public Speaking Competition (2015)
-  >>>> 1st in Model United Nations debate (2016)
-  >>>>> Captained the school swimming team in multiple gala victories
-  >>>>>>  Contributed towards a positive school environment by arranging after school socials for boarders 
+  >
+  >> Developed skills in public speaking and entrepreneurship
+  >> Lead the sales team for the Young Entrepreneurs
+  >> 1st in the Rotary Youth Speaks Public Speaking Competition (2015)
+  >> 1st in Model United Nations debate (2016)
+  >> Captained the school swimming team in multiple gala victories
+  >>  Contributed towards a positive school environment by arranging after school socials for boarders 
 
 <br />
 
