@@ -96,7 +96,6 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate c
  
 </details>
   
-  <br />
   
 
 <h3> Sutton Valence School - 2014-2016 </h3>
@@ -124,7 +123,6 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate c
 
 </details>
 
-<br />
 
 <h3> International School of Cape Town - (GCSE's) 2010-1016 </h3>
 
