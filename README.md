@@ -50,9 +50,9 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate c
 *Junior Developer*  
 
 
-> - T.D.D: Experienced in unit and feature testing applications as well as related methodologies.
-> - Agile Workflow: Completing Tickets, having standups, scrums, check-ins; 
-> - X.P.P Methodologies; feedback, respect, courage, communication and simplicity.
+> - T.D.D: Experienced in unit and feature testing applications as well as related methodologies
+> - Agile Workflow: Completing Tickets, having standups, scrums, check-ins
+> - X.P.P Methodologies; feedback, respect, courage, communication and simplicity
 
 
 <h3> Scientrix (Work experience) </h3>
@@ -61,7 +61,7 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate c
 > - Gained client facing experience
 > - Worked in a consultant environment with large firms and retailers
 > - Learned about business tools for productivity
-> - Coding, was encouraged to learn some basic programming principles by developers within the company as I discovered a passion for it.
+> - Coding, was encouraged to learn some basic programming principles by developers within the company as I discovered a passion for it
 
 
 <br />
@@ -128,7 +128,7 @@ _Relevant modules_
 
 <h3> International School of Cape Town - (GCSE's) 2010-1016 </h3>
 
-  > - Participated in weekly charity work in the township of Masiphumelele where I was able to work with children who live in extreme circumstances and educate them on the values of community, respect and togetherness.
+  > - Participated in weekly charity work in the township of Masiphumelele where I was able to work with children who live in extreme circumstances and educate them on the values of community, respect and togetherness
 
 <br />
 
