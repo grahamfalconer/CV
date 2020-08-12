@@ -154,6 +154,6 @@ ___________________________________________
 
 <h2> Hobbies </h2>
 
- > - Rock-climbing 
-> - Swimming
-> - Coding
+ >  Rock-climbing 
+>  Swimming
+>  Coding
