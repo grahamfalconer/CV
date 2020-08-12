@@ -52,15 +52,10 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate c
 
 *Junior Developer*  
 
-Skills:
 
-**T.D.D** : Experienced in unit and feature testing applications as well as related methodologies.
-
-**Agile Workflow** : Standups,Scrums,Check-ins; 
-
-Followed Extreme Programming Principles(X.P.P); feedback, respect, courage, communication and simplicity.
-Learned 
-Worked on projects
+> - T.D.D: Experienced in unit and feature testing applications as well as related methodologies.
+> - Agile Workflow: Completing Tickets, having standups, scrums, check-ins; 
+> - X.P.P Methodologies; feedback, respect, courage, communication and simplicity.
 
 
 <h3> Scientrix (Work experience) </h3>
@@ -81,7 +76,6 @@ Worked on projects
 
 <h3> University of Birmingham - Geography (BA) 2016-2019 </h3>
 
-  > Skills Developed
   > -  Data collection & analysis
   > - Presentation and Public speaking
   > - Mapping
