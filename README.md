@@ -29,8 +29,6 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate c
 
 <br />
 
-------------------------
-
 <h2 id="Skills"> Skills </h2>
 
 **Strong communication** - I have always been recognized as an optimistic and outgoing person by my peers and have regularly been put forward for roles involving demonstrations, negotiations, and public speaking. This has not only been in the projects I have done at Makers, but extends further to University where I regularly had to give presentations on the results of our projects. In school I was also able win the Model United Nations(M.U.N) debate and the Rotary Youth Speaks public speaking competition. Practicing my communication in this way has allowed me to become a great story-teller who can help motivate and inspire with my words.
@@ -41,7 +39,6 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate c
 
 <br />
 
-------------------------
 
 <h2 id="Experience"> Experience </h2>
 
@@ -66,7 +63,6 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate c
 
 <br />
 
-------------------------
 <div style="height: 200px; background-color: blue;">
 </div>
 
@@ -149,7 +145,6 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate c
 </details>
 
 
-___________________________________________
 
 <h2> Hobbies </h2>
 
