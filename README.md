@@ -136,6 +136,7 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate c
 <summary> Grades Achieved </summary>
 <br>
 *IGCSE's (CIE)*
+
 |Subject | Grade |
 |--------|------|
 | Geography |  A* |
