@@ -65,18 +65,10 @@ Worked on projects
 <h3> Scientrix (Work experience) </h3>
 
 *Work Experience*  
-- Gained client facing experience
-- Worked in a consultant environment with large firms and retailers
-- Learned about business tools for productivity
-- Coding, was encouraged to learn some basic programming principles by developers within the company as I discovered a passion for it.
-
-
-<h3> Minutz Management (Work experience) </h3>
-
-*Work Experience*  
-- Got to work side by side with developers in preparing a product for our client
-- Created presentations for clients
-
+> - Gained client facing experience
+> - Worked in a consultant environment with large firms and retailers
+> - Learned about business tools for productivity
+> - Coding, was encouraged to learn some basic programming principles by developers within the company as I discovered a passion for it.
 
 
 <br />
