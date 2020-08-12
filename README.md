@@ -132,22 +132,22 @@ _Relevant modules_
 
 <br />
 
-> <details>
-> <summary> Grades Achieved </summary>
-> <br>
-> *IGCSE's (CIE)*
-> |Subject | Grade |
-> |--------|------|
-> | Geography |  A* |
-> | Biology | A* |
-> | Chemistry | B |
-> | Business | A |
-> | Maths | B |
-> | English Language | B |
-> | English Literature | B |
-> | French | B |
-> | Art | C |
-> </details>
+<details>
+<summary> Grades Achieved </summary>
+<br>
+*IGCSE's (CIE)*
+|Subject | Grade |
+|--------|------|
+| Geography |  A* |
+| Biology | A* |
+| Chemistry | B |
+| Business | A |
+| Maths | B |
+| English Language | B |
+| English Literature | B |
+| French | B |
+| Art | C |
+</details>
 
 
 ___________________________________________
