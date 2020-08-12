@@ -83,9 +83,9 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate c
 
 
 
-_Relevant modules_
-> - Cultural Geographies
-> - Economic Geographies
+>_Relevant modules_
+>> - Cultural Geographies
+>> - Economic Geographies
 
 <details>
 <summary> Grades Achieved </summary>
