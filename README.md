@@ -154,4 +154,6 @@ ___________________________________________
 
 <h2> Hobbies </h2>
 
-As well as coding in my freetime I also enjoy other activities such as camping, rock-climbing and swimming.
+ > - Rock-climbing 
+> - Swimming
+> - Coding
