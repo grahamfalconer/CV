@@ -6,7 +6,6 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate.
 
 <br />
 
-------------------------
 
 <h2 id="Projects"> Projects </h2>
 
