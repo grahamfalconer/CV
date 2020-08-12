@@ -155,4 +155,4 @@ ___________________________________________
 
 <h2> Hobbies </h2>
 
-Rock Climbing, Swimming, Coding
+Rock climbing, swimming, coding, football. 
