@@ -81,12 +81,10 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate c
 <br />
 
 
-During my time at the University of Birmingham I was able to learn about current global processes and was able to gain crucial skills in research, completing modules in...
 
+_Relevant modules_
 > - Cultural Geographies
-> - Development Geographies
 > - Economic Geographies
-> - Space
 
 <details>
 <summary> Grades Achieved </summary>
