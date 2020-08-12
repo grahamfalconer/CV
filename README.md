@@ -1,6 +1,6 @@
 <h1> Graham Falconer </h1>
 
-[Projects](#Projects) | [Technologies](#Technologies) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") | [CodeWars](https://www.codewars.com/users/grahamcodes98 "Grahams CodeWars")  
+[Projects](#Projects) | [Technologies](#Technologies) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | Further Information--> [LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") | [CodeWars](https://www.codewars.com/users/grahamcodes98 "Grahams CodeWars")  
 
 I am a British South-African, Full Stack Developer and Makers Academy Graduate currently based in the United Kingdom.
 
