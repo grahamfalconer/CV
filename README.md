@@ -68,6 +68,8 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate c
 <br />
 
 ------------------------
+<div style="height: 200px; background-color: blue;">
+</div>
 
 
 <h2 id="Education"> Education </h2>
