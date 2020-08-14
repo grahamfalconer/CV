@@ -123,8 +123,8 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate c
 
 
 <h3> International School of Cape Town - (GCSE's) 2010-1016 </h3>
-
-  > - Participated in weekly charity work in the township of Masiphumelele where I was able to work with children who live in extreme circumstances and educate them on the values of community, respect and togetherness
+  > *Silver Presidents Award*
+  > - Recieved silver presidents Award for completing weekly charity work in the township of Masiphumelele.
 
 <br />
 
