@@ -97,6 +97,7 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate c
   
 
 <h3> Sutton Valence School - 2014-2016 </h3>
+
   > _Achievements_
   > - Lead the sales team for the Young Entrepreneurs
   > - 1st in the Rotary Youth Speaks Public Speaking Competition (2015)
