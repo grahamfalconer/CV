@@ -72,7 +72,7 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate c
 <h3> University of Birmingham - Geography (BA) 2016-2019 </h3>
 
   > _Relevant skills_
-  > -  Data collection & analysis
+  > -  Data collection and analysis
   > - Presentation and Public speaking
   > - Mapping
 
