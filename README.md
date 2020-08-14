@@ -31,7 +31,7 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate c
 
 <h2 id="Skills"> Skills </h2>
 
-**Strong communication** - I have always been recognized as an optimistic and outgoing person by my peers and have regularly been put forward for roles involving demonstrations, negotiations, and public speaking. This has not only been in the projects I have done at Makers, but extends further to University where I regularly had to give presentations on the results of our projects. In school I was also able win the Model United Nations(M.U.N) debate and the Rotary Youth Speaks public speaking competition. Practicing my communication in this way has allowed me to become a great story-teller who can help motivate and inspire with my words.
+**Strong communication** - I have always been recognized as an optimistic and outgoing person by my peers and have regularly been put forward for roles involving demonstrations, negotiations, and public speaking. This has not only been in the projects I have done at Makers, but extends further to University where I regularly gave presentations on the results of our projects. In school I was also able win the Model United Nations(M.U.N) debate and the Rotary Youth Speaks public speaking competition. Practicing my communication in this way has allowed me to become a great story-teller who can help motivate and inspire with my words.
 
 **Adaptable** - Having lived in 6 different countries by the age of 22 (New Zealand, South Africa, Kuwait, Bahrain, England & Scotland) as well as having attended 9 schools in that time, its fair to say I am no stranger to change and the difficulties that come with it. Upon arriving in new place I have always been quick to learn as well as establish and integrate myself
 
