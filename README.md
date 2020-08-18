@@ -49,7 +49,7 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate c
 
 > - T.D.D: Experienced in unit and feature testing applications as well as related methodologies
 > - Agile Workflow: Completing Tickets, having standups, scrums, check-ins
-> - X.P.P Methodologies; feedback, respect, courage, communication and simplicity
+> - X.P.P Methodologies; Practiced feedback, respect, courage, communication and simplicity increased EQ when working in a team 
 
 
 <h3> Scientrix (Work experience) </h3>
