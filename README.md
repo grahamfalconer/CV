@@ -11,6 +11,7 @@ I am a British South-African, Full Stack Developer and Makers Academy Graduate c
 |--------------|------------------------------|----------|----|
 | Mission-ctrl | A game to learn VScode shortcuts using Javascript event listeners | http://mission-ctrl.surge.sh | Complete |
 | Gapagbook | A mock of facebook with user sign-up/sign-in and posts | https://gapag1.herokuapp.com | Complete |
+| Honda OtheRside | A recreation of the <a href="http://wklondon.com/work/the-other-side/"> Honda Civic R 2015 Otherside video player </a> it features a fully responsive design and a unique feature of swapping between videos | http://honda-theotherside.surge.sh/ | Complete |
 | Best Quality Vacuum | Just a simple vacuum site? or so it seems... ( Try discount code 'El Camino' at checkout ), this project was built to replicate "The Dissapearers" vacuum store from Breaking Bad| http://bestqualityvacuum.surge.sh/ | under construction |
 | Grahams to-do's | A simple javascript to-do list with rewarding tick offs | http://grahams-todos.surge.sh/ | Complete |
 | Henrys notes | A notepad fit for a king! Built using javascript | http://henryviii-notes.surge.sh/#list | Complete |
