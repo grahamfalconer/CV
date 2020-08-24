@@ -2,8 +2,7 @@
 
 [Projects](#Projects) | [Technologies](#Technologies) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | Further Information--> [LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") | [CodeWars](https://www.codewars.com/users/grahamcodes98 "Grahams CodeWars")  
 
-I am a British South-African, Full Stack Developer and Makers Academy Graduate currently based in the United Kingdom.
-
+I'm a British South-African, Full Stack Developer and a graduate of Makers Academy.
 
 <h2 id="Projects"> Projects </h2>
 
