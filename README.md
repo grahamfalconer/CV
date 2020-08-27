@@ -10,6 +10,7 @@ I'm a British South-African, Full Stack Developer and a graduate of Makers Acade
 |--------------|------------------------------|----------|----|-------|
 | Honda OtheRside | A recreation of the Honda Civic R 2015 <a href="http://wklondon.com/work/the-other-side/"> Otherside video player </a> it includes a fully responsive design and a unique feature of swapping between videos | http://honda-theotherside.surge.sh/ | Complete | Vanilla JS, HTML, CSS |
 | Mission-ctrl | A game to learn VScode shortcuts using Javascript event listeners | http://mission-ctrl.surge.sh | Complete | React, Express, MongoDB, NodeJS |
+| Grahams Haunted Piano | A piano you can use on your keyboard built in javascript. | https://grahamshauntedpiano.surge.sh | under construction | Vanilla JS |
 | Gapagbook | A mock of facebook with user sign-up/sign-in and posts | https://gapag1.herokuapp.com | Complete | Ruby on Rails, SQL |
 | Best Quality Vacuum | Just a simple vacuum site? or so it seems... ( Try discount code 'El Camino' at checkout ), this project was built to replicate "The Dissapearers" vacuum store from Breaking Bad| http://bestqualityvacuum.surge.sh/ | under construction | React |
 | Grahams to-do's | A simple javascript to-do list with rewarding tick offs | http://grahams-todos.surge.sh/ | Complete | Vanilla JS |
