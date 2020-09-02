@@ -35,6 +35,10 @@ I'm a British South-African, a Full Stack Developer and a graduate of Makers Aca
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
 
 <h2 id="Skills"> Skills </h2>
 
