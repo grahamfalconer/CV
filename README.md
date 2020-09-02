@@ -56,7 +56,7 @@ I'm a British South-African, a Full Stack Developer and a graduate of Makers Aca
 > - X.P.P Methodologies; Practiced feedback, respect, courage, communication and simplicity increased EQ when working in a team 
 
 
-<h3> Scientrix (Work experience) </h3>
+<h3> Scientrix (May 2019 - November 2019) </h3>
 
 *Work Experience*  
 > - Gained client facing experience
