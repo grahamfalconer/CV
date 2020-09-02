@@ -33,11 +33,13 @@ I'm a British South-African who has lived in 6 countries, a Full Stack Developer
 
 <h2 id="Skills"> Skills </h2>
 
+**Creative Problem Solving** - I like to let creativity be the enabler in my problem solving approach, this has allowed me to break down complex coding problems and to have built a solid foundation in my understanding of object oriented programming. Through this object oriented lens I am able to see vivid representations of what is being built and therefore better understanding the externalities and the problems it may face, this has led me take a precognitive approach to design with carefully thought out component structures.
+
 **Strong communication** - I have always been recognized as an optimistic and outgoing person by my peers and have regularly been put forward for roles involving demonstrations, negotiations, and public speaking. This has not only been in the projects I have done at Makers, but extends further to University where I regularly gave presentations on the results of our projects. I was also able win the Model United Nations(M.U.N) debate and the Rotary Youth Speaks public speaking competition. Practicing my communication in this way has allowed me to become a great story-teller who can help motivate and inspire with my words as well as articulate the natures of complex problems.
 
-**Adaptable** - Having lived in 6 different countries by the age of 22 (New Zealand, South Africa, Kuwait, Bahrain, England & Scotland) as well as having attended 9 schools in that time, its fair to say I am no stranger to change and the difficulties that come with it. Upon arriving in a new environment, I have always been quick establish and integrate myself, this also helped me become a captain of senior teams in Sutton Valence within my short time there.
+**Adaptable** - Having lived in 6 different countries by the age of 22 (New Zealand, South Africa, Kuwait, Bahrain, England & Scotland) as well as having attended 9 schools in that time, its fair to say I am no stranger to change and the difficulties that come with it. Upon arriving in a new environment, I have always been quick establish and integrate myself, this also helped me become a captain of senior teams in Sutton Valence within my short time there. This can mainly be accredited to the attitude I show towards my work and my peronsal desire for the interconnection of my peers.
 
-**Enthusiastic** - Tech has been an exciting whirlwind for me thus far and I have found enthusiasm to be my enabler in the work I do and believe in sharing that enthusiasm with the team for best results. It has also helped me overcome many obstacles because of the energy and drive it allows me to have when confronted with complex problems.
+
 
 <br />
 
