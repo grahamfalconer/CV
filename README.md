@@ -1,6 +1,6 @@
 <h1> Graham Falconer's Resume </h1>
 
-[Projects](#Projects) | [Technologies](#Technologies) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | External Links--> [LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") | [CodeWars](https://www.codewars.com/users/grahamcodes98 "Grahams CodeWars")  
+[Projects](#Projects) | [Technologies](#Technologies) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | External Links--> [My Website](http://grahamfalconer.surge.sh/ "Grahams Portfolio") [LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") | [CodeWars](https://www.codewars.com/users/grahamcodes98 "Grahams CodeWars")  
 
 I'm a British South-African, a Full Stack Developer and a graduate of Makers Academy. I am passionate about self-development and performance improvement whether that looks like a bag of chia seeds or automating business processes. I'm a keen team player and am always looking for my next challenge... please feel free to send me a message if you are interested in working together!
 
