@@ -86,14 +86,6 @@ I'm a British South-African, a Full Stack Developer and a graduate of Makers Aca
 > - Cultural Geographies
 > - Economic Geographies
 
-<details>
-<summary> Grades Achieved </summary>
-<br>
- Geography CofHE -
- *DNF - Left due to health complications in Sept 2018, remained as a registered student till Feb 2019*
-
- 
-</details>
   
   
 
@@ -108,19 +100,7 @@ I'm a British South-African, a Full Stack Developer and a graduate of Makers Aca
 
 <br />
 
-<details>
-<summary> Grades Achieved </summary>
-<br>
- *(A-levels)*
- 
-|Subject| Grade |
- |------|--------|
-| Geography | A* |
-| Business | A | 
-| Economics | B |
-| Biology (AS) | B |
 
-</details>
 
 
 <h3> International School of Cape Town - (GCSE's) 2010-1016 </h3>
@@ -130,23 +110,6 @@ I'm a British South-African, a Full Stack Developer and a graduate of Makers Aca
 
 <br />
 
-<details>
-<summary> Grades Achieved </summary>
-<br>
-*IGCSE's (CIE)*
-
-|Subject | Grade |
-|--------|------|
-| Geography |  A* |
-| Biology | A* |
-| Chemistry | B |
-| Business | A |
-| Maths | B |
-| English Language | B |
-| English Literature | B |
-| French | B |
-| Art | C |
-</details>
 
 
 
