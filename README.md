@@ -12,9 +12,8 @@ I'm a British South-African, a Full Stack Developer and a graduate of Makers Aca
 | Mission-ctrl | A game to learn VScode shortcuts using Javascript event listeners | http://mission-ctrl.surge.sh | Complete | MongoDB, Express, React, NodeJS |
 | Grahams Haunted Piano | A piano you can use on your keyboard built in javascript. | https://grahamshauntedpiano.surge.sh | under construction | Vanilla JS |
 | Gapagbook | A mock of facebook with user sign-up/sign-in and posts | https://gapag1.herokuapp.com | Complete | Ruby on Rails, SQL |
-| Best Quality Vacuum | Just a simple vacuum site? or so it seems... ( Try discount code 'El Camino' at checkout ), this project was built to replicate "The Dissapearers" vacuum store from Breaking Bad| http://bestqualityvacuum.surge.sh/ | under construction | React |
-| Grahams to-do's | A simple javascript to-do list with rewarding tick offs | http://grahams-todos.surge.sh/ | Complete | Vanilla JS |
-| Henrys notes | A notepad fit for a king! Built using javascript | http://henryviii-notes.surge.sh/#list | Complete | Vanilla JS |
+
+
 
 <br />
 
