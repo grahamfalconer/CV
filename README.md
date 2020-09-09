@@ -21,7 +21,7 @@ I'm a British South-African, Full Stack Developer and graduate of Makers Academy
 
 <h2 id="Technologies"> Technologies </h2>
 
-|**Programming**|----|
+|**Level of Knowledge**|**Technology**|
 |--------------------------------|-----|
 | Strong Knowledge | React.js, Javascript, Node.js, Ruby, HTML, CSS, Ruby on Rails, PostgreSQL, Rspec, Jest, Enzyme, Jasmine, Rubocop, SimpleCov, Rubycritic, Capybara | 
 | Reasonable Knowledge | React Native, Express, MongoDB, Python, Matlabs, Sinatra, Travis CI/CD, Circle CI, Mocha  |
