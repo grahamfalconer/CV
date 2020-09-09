@@ -122,4 +122,4 @@ Hi, I'm Graham. I'm a fullstack developer, graduate of makers academy and a Brit
 
 <h2> Hobbies </h2>
 
-In my free time I enjoy surfing, futsal, rock-climbing and finding new funky jams to listen to.
+In my free time I enjoy surfing, gardening, futsal, rock-climbing and finding new funky jams to listen to.
