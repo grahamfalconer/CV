@@ -113,4 +113,4 @@ I'm a British South-African, Full Stack Developer and graduate of Makers Academy
 
 <h2> Hobbies </h2>
 
-In my free time I enjoy surfing, rock-climbing and finding new funky jams to listen to.
+In my free time I enjoy surfing, futsal, rock-climbing and finding new funky jams to listen to.
