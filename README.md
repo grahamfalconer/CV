@@ -21,10 +21,12 @@ I'm a British South-African, Full Stack Developer and graduate of Makers Academy
 <h2 id="Technologies"> Technologies </h2>
 
 |**Programming**|
-|--------------------------------|
-| Javascript, Node.js, JQuery, HTML, CSS, React.js, React Native, Express, MongoDB, SQL, PostgreSQL, Python, Matlabs, Ruby, xCode, Expo, Docker, Sinatra, Ruby on Rails,  Travis CI/CD, Circle CI, Jest, Enzyme, Jasmine,Mocha, Chai,  Rspec, Rubocop, SimpleCov, Rubycritic, Capybara, Puppeteer.js |
-|**other**|
-|Miro, Trello (Agile workflow tool), ArcGIS, ArcMaps, Microsoft Word, Microsoft Excel, Microsoft Powerpoint, Adobe Photoshop.|
+|--------------------------------|-----|
+| Strong Knowledge | React.js, Javascript, Node.js, Ruby, HTML, CSS, Ruby on Rails, PostgreSQL, Rspec, Jest, Enzyme, Jasmine, Rubocop, SimpleCov, Rubycritic, Capybara | 
+| Reasonable Knowledge | React Native, Express, MongoDB, , Ruby, xCode, Expo,  Sinatra, Travis CI/CD, Circle CI, Mocha  |
+| Some Knowledge | Docker, Python, Matlabs, Puppeteer.js |
+|**Other Technologies**|
+|Microsoft Excel, Microsoft Word, Microsoft Powerpoint, ArcGIS, ArcMaps, Trello, Adobe Photoshop|
 
 
 <br />
