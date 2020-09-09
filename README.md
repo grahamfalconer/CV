@@ -1,6 +1,6 @@
 <h1> Graham Falconer's CV </h1>
 
-[Projects](#Projects) | [Technologies](#Technologies) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | External Links--> [My Website](http://grahamfalconer.surge.sh/ "Grahams Portfolio") | [LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") | [CodeWars](https://www.codewars.com/users/grahamcodes98 "Grahams CodeWars")  
+[Projects](#Projects) | [Technologies](#Technologies) | [Values](#Values) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | External Links--> [My Website](http://grahamfalconer.surge.sh/ "Grahams Portfolio") | [LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") | [CodeWars](https://www.codewars.com/users/grahamcodes98 "Grahams CodeWars")  
 
 I'm a British South-African, Full Stack Developer and graduate of Makers Academy. I am passionate about self-development and performance improvement whether that looks like a bag of chia seeds or automating business processes. I'm a keen team player and am always looking for my next challenge... please feel free to send me a message if you are interested in working together!
 
@@ -37,7 +37,15 @@ I'm a British South-African, Full Stack Developer and graduate of Makers Academy
 
 **Adaptability** - Having lived in 6 different countries by the age of 22 (New Zealand, South Africa, Kuwait, Bahrain, England & Scotland) as well as having attended 9 schools in that time, its fair to say I am no stranger to change and the difficulties that come with it. Upon arriving in a new environment, I have always been quick establish and integrate myself, this also helped me become a captain of senior teams in Sutton Valence within my short time there. This can mainly be accredited to the attitude I show towards my work and my peronsal desire for the interconnection of my peers.
 
+<br />
 
+<h2 id="values"> Values </h2>
+
+1: Love what you do: I am an incredibly passionate person and let my flooding enthusiasm be a driving force in everything I do, this has enabled me to really push myself in challenging situations such as this career change by completely immersing myself in everything tech, including; books, projects, television shows and more!
+
+2: Honest feedback, as someone who values self progression a great deal and is always trying new things to improve, honest feedback is something I see as crucial, especially at this stage in my career it is important that its made clear to me what works so that I can include it in future recipes for success.
+
+3: Always listen to the little guy, I am an empathetic person and feel a personal desire to see others around me feel comfortable in the space they are in as this is when people are going to work best for you and themselves.
 
 <br />
 
