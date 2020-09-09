@@ -2,8 +2,8 @@
 
 [Projects](#Projects) | [Technologies](#Technologies) | [Skills](#Skills) | [Values](#Values) | [Experience](#Experience) | [Education](#Education) | External Links--> [My Website](http://grahamfalconer.surge.sh/ "Grahams Portfolio") | [LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") | [CodeWars](https://www.codewars.com/users/grahamcodes98 "Grahams CodeWars")  
 
+Hi, I'm Graham. I'm a fullstack developer, graduate of makers academy and a British South-African. My journey into tech has seen me be a geography student, management consultant as well as a climate change activist. I have always been passionate about making impactful change and love to stay enthusiastic about the work I do. On top of this, I also have deep-rooted entrepreneurial ambition and see my next 10 years in a software development role as my opportunity to build the necessary skills to flourish in industry. I love working with other people, practicing communication and building my network and am currently looking for an opportunity which would see me able to do these things, as well put my strong foot forward and help make valid contribution wherever I am able, I appreciate you taking the time to read my CV today and hopefully can look forward to your response.
 
-I'm a British South-African, Full Stack Developer and graduate of Makers Academy. I am passionate about self-development and performance improvement whether that means a new style of breakfast or . I'm a keen team player and am always looking for my next challenge... please feel free to send me a message if you are interested in working together!
 
 <h2 id="Projects"> Projects </h2>
 
