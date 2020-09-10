@@ -110,7 +110,7 @@ Hi, I'm Graham. I'm a fullstack developer, graduate of makers academy and a Brit
 
 
 
-<h3> International School of Cape Town - (GCSE's) 2010-1016 </h3>
+<h3> International School of Cape Town - 2010-2016 </h3>
 
   > *Silver Presidents Award*
   > - Recieved silver presidents Award for completing weekly charity work in the township of Masiphumelele.
