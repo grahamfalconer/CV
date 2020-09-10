@@ -96,7 +96,7 @@ Hi, I'm Graham. I'm a fullstack developer, graduate of makers academy and a Brit
   
   
 
-<h3> Sutton Valence School - 2014-2016 </h3>
+<h3> Sutton Valence School - Business, Economics & Geography 2014-2016 </h3>
 
   > _Achievements_
   > - Lead the sales team for the Young Entrepreneurs
