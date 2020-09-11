@@ -123,9 +123,9 @@ Hi, I'm Graham. I'm a fullstack developer, graduate of makers academy and a Brit
 <h2> Hobbies </h2>
 
 In my free time enjoy;
-  • Breaking legs in five-a-side casual league games
-  • Finding enormous boulders to climb 
-  • Growing my own foood
-  &
-  • Finding music from all around the world to add to my spotify playlists
+  > - Breaking legs in five-a-side casual league games
+  > - Finding enormous boulders to climb 
+  > - Growing my own foood
+  > &
+  > - Finding music from all around the world to add to my spotify playlists
 
