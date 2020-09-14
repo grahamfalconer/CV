@@ -56,10 +56,9 @@ Hi, I'm Graham. I'm a fullstack developer, graduate of makers academy and a Brit
 <h3> Scientrix (May 2019 - November 2019) </h3>
 
 *Management Consultancy*  
-> - Gained client facing experience working with largwe
-> - Worked in a consultant environment with large firms and retailers
-> - Learned about business tools for productivity
-> - Coding, was encouraged to learn some basic programming principles by developers within the company as I discovered a passion for it
+> - Gained client facing experience on the projects and was part of teams which received great feedback
+> - Worked with senior consultants to deliver our expertise to some of South Africa's largest retailers
+> - Learned about tools for increasing business productivity and received mentoring from senior partners
 
 
 <br />
