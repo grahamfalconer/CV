@@ -50,9 +50,8 @@ I'm a fullstack developer and graduate of Makers Academy who loves to build and 
 
 <h2 id="Experience"> Experience </h2>
 
-<h3> Scientrix (May 2019 - December 2019) </h3>
-
-*Management Consultancy*  
+<h3> Scientrix - Management Consultant (May 2019 - December 2019) </h3>
+ 
 > - Worked on the Scientrix Modularity platform providing modularization, interconnectivity, data-management, decision making and portfolio management.
 > - Attended workshops on proposed implementations and cascading of strategies into Scientrix platform.
 > - Worked directly with clients to help best identify business needs and manage their OKR's (Objective Key Results)
@@ -79,12 +78,10 @@ I'm a fullstack developer and graduate of Makers Academy who loves to build and 
 
 <h3> University of Birmingham - Geography (BA) 2016-2019 </h3>
 
-  > _Relevant skills_
-  > -  Data collection and analysis
+  > - Data collection and analysis
   > - Presentation and Public speaking
   > - Mapping
 
-  >_Relevant modules_
   > - G.I.S Systems and ArcMap
   > - Cultural Geographies
   > - Economic Geographies
@@ -93,11 +90,9 @@ I'm a fullstack developer and graduate of Makers Academy who loves to build and 
 <h3> Sutton Valence School - Business, Economics & Geography (2014-2016) </h3>
 
   > _Achievements_
-  > - Lead the sales team for the Young Entrepreneurs
   > - 1st in the Rotary Youth Speaks Public Speaking Competition (2015)
   > - 1st in Model United Nations debate (2016)
   > - Captained the school swimming team in multiple gala victories
-  > -  Contributed towards a positive school environment by arranging after school socials for boarders 
 
 <h3> International School of Cape Town - CIE IGCSE's - (2010-2016) </h3>
 
