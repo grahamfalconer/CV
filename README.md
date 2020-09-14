@@ -53,17 +53,6 @@ Hi, I'm Graham. I'm a fullstack developer, graduate of makers academy and a Brit
 
 <h2 id="Experience"> Experience </h2>
 
-<h3> Makers Academy (March 2020 - June 2020) </h3> 
-
-*Junior Developer*  
-
-
-> - Worked with other developers in an agile environment using Git workflow
-> - Practiced teamwork and followed extreme programming principles (X.P.P's)
-> - Responsible for project design, programming, integration, deployment etc right from back to front end.
-> - Gained proficiency in working with Ruby, ES6, Node.js, HTML, CSS, React, MongoDB and SQL.
-
-
 <h3> Scientrix (May 2019 - November 2019) </h3>
 
 *Management Consultancy*  
@@ -77,6 +66,21 @@ Hi, I'm Graham. I'm a fullstack developer, graduate of makers academy and a Brit
 
 
 <h2 id="Education"> Education </h2>
+
+<h3> Makers Academy (March 2020 - June 2020) </h3> 
+
+*Junior Developer*  
+
+
+> - Worked with other developers in an agile environment using Git workflow
+> - Practiced teamwork and followed extreme programming principles (X.P.P's)
+> - Responsible for project design, programming, integration, deployment etc right from back to front end.
+> - Object Oriented Programming and design (O.O.P, O.O.D)
+> - Test Driven and Behaviour driven development (T.D.D & B.D.D) working with testing frameworks such as Jest and RSpec
+> - Model View Controller structure
+> - Document Object Model manipulation
+> - Working with databases (understanding one to many and many to many relationships)
+> - Gained proficiency in working with Ruby, ES6, Node.js, HTML, CSS, React, MongoDB and SQL.
 
 <h3> University of Birmingham - Geography (BA) 2016-2019 </h3>
 
