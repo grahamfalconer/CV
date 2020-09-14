@@ -71,7 +71,7 @@ Hi, I'm Graham. I'm a fullstack developer, graduate of makers academy and a Brit
 
 *Junior Developer*  
 
-> _Gained Skils in_
+> _Gained Experience in;_
 
 > - Working in an agile environment using Git workflow
 > - Practiced teamwork and followed extreme programming principles (X.P.P's)
