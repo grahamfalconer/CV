@@ -53,12 +53,15 @@ Hi, I'm Graham. I'm a fullstack developer, graduate of makers academy and a Brit
 
 <h2 id="Experience"> Experience </h2>
 
-<h3> Scientrix (May 2019 - November 2019) </h3>
+<h3> Scientrix (May 2019 - December 2019) </h3>
+
 
 *Management Consultancy*  
-> - Gained client facing experience on the projects and was part of teams which received great feedback
-> - Worked with senior consultants to deliver our expertise to some of South Africa's largest retailers
-> - Learned about tools for increasing business productivity and received mentoring from senior partners
+> - Worked on the Scientrix Modularity platform providing modularization, interconnectivity, data-management, decision making and portfolio management.
+> - Attended workshops on proposed implementations and cascading of strategies into Scientrix platform.
+> - Worked directly with clients to help best identify business needs and decide on clear OKR's (Objective Key Results)
+> - Helped businesses understand their own brand and decide on objectives
+> - Recieved mentoring from consultants and developed skills working with; javascript, HTML5, mysql.
 
 
 <br />
