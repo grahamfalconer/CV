@@ -64,11 +64,8 @@ I'm a fullstack developer and graduate of Makers Academy who loves to build and 
 
 <h2 id="Education"> Education </h2>
 
-<h3> Makers Academy (March 2020 - June 2020) </h3> 
+<h3> Makers Academy - Software Development (March 2020 - June 2020) </h3> 
 
-*Junior Developer*  
-
-> _Gained Experience in;_
 > - Breaking down user stories into requirements and following an agile development process
 > - Practiced teamwork and followed extreme programming principles (X.P.P's)
 > - Project design, programming, integration, deployment etc right from back to front end.
@@ -93,7 +90,7 @@ I'm a fullstack developer and graduate of Makers Academy who loves to build and 
   > - Economic Geographies
 
   
-<h3> Sutton Valence School - Business, Economics & Geography 2014-2016 </h3>
+<h3> Sutton Valence School - Business, Economics & Geography (2014-2016) </h3>
 
   > _Achievements_
   > - Lead the sales team for the Young Entrepreneurs
@@ -102,7 +99,7 @@ I'm a fullstack developer and graduate of Makers Academy who loves to build and 
   > - Captained the school swimming team in multiple gala victories
   > -  Contributed towards a positive school environment by arranging after school socials for boarders 
 
-<h3> International School of Cape Town - 2010-2016 </h3>
+<h3> International School of Cape Town - CIE IGCSE's - (2010-2016) </h3>
 
   > *Silver Presidents Award*
   > - Recieved silver presidents Award for completing weekly charity work in the township of Masiphumelele.
