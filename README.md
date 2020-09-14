@@ -35,6 +35,7 @@ I'm a fullstack developer and graduate of Makers Academy who loves to build and 
 | Strong Knowledge | React.js, Javascript, Node.js, Ruby, HTML, CSS, Ruby on Rails, PostgreSQL, mySQL, Rspec, Jest, Enzyme, Jasmine, Rubocop, SimpleCov, Rubycritic, Capybara | 
 | Reasonable Knowledge | React Native, Express, MongoDB, Python, Matlabs, Sinatra, Travis CI/CD, Circle CI, Mocha  |
 | Some Knowledge | Docker, Puppeteer.js |
+
 <br />
 
 <h2 id="values"> Values </h2>
