@@ -8,7 +8,7 @@ Hi, I'm Graham. I'm a fullstack developer, graduate of makers academy and a Brit
 
 | Project Name | Project Description | Project link | Status | Technology used |
 |--------------|------------------------------|----------|----|-------|
-| Honda OtheRside | A recreation of the Honda Civic R 2015 <a href="http://wklondon.com/work/the-other-side/"> Otherside video player </a> it includes a fully responsive design and a unique feature of swapping between videos | http://honda-theotherside.surge.sh/ | Complete | Vanilla JS, HTML, CSS |
+| Honda OtheRside | A recreation of the Honda Civic R 2015  <a href="http://wklondon.com/work/the-other-side/"> Otherside video player </a> it includes a fully responsive design and a unique feature of swapping between videos | http://honda-theotherside.surge.sh/ | Complete | Vanilla JS, HTML, CSS |
 | Mission-ctrl | A game to learn VScode shortcuts using Javascript event listeners | http://mission-ctrl.surge.sh | Complete | MongoDB, Express, React, NodeJS |
 | Grahams Haunted Piano | A piano you can use on your keyboard built in javascript. | https://grahamshauntedpiano.surge.sh | under construction | Vanilla JS |
 | Gapagbook | A mock of facebook with user sign-up/sign-in and posts | https://gapag1.herokuapp.com | Complete | Ruby on Rails, SQL |
