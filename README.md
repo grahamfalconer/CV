@@ -79,6 +79,7 @@ I'm a fullstack developer and graduate of Makers Academy who loves to build and 
 > - Using databases (understanding one to many and many to many relationships)
 > - Gaining proficiency in Ruby, ES6, Node.js, HTML, CSS, React, MongoDB and SQL.
 
+
 <h3> University of Birmingham - Geography (BA) 2016-2019 </h3>
 
   > _Relevant skills_
@@ -86,12 +87,11 @@ I'm a fullstack developer and graduate of Makers Academy who loves to build and 
   > - Presentation and Public speaking
   > - Mapping
 
-
-
   >_Relevant modules_
   > - G.I.S Systems and ArcMap
   > - Cultural Geographies
   > - Economic Geographies
+
   
 <h3> Sutton Valence School - Business, Economics & Geography 2014-2016 </h3>
 
