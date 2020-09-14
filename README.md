@@ -11,6 +11,7 @@ I'm a fullstack developer, graduate of makers academy and a British South-Africa
 | Honda OtheRside | A recreation of the Honda Civic R 2015  <a href="http://wklondon.com/work/the-other-side/"> Otherside video player </a> it includes a fully responsive design and a unique feature of swapping between videos | http://honda-theotherside.surge.sh/ | Complete | Vanilla JS, HTML, CSS |
 | Mission-ctrl | A game to learn VScode shortcuts using Javascript event listeners | http://mission-ctrl.surge.sh | Complete | MongoDB, Express, React, NodeJS |
 | Grahams Haunted Piano | A piano you can use on your keyboard built in javascript. | https://grahamshauntedpiano.surge.sh | under construction | Vanilla JS |
+| Grahams Ghosts | (PG 15) A classic arcade shooter with some pretty spooky sound effects. Play at your will ! | https://grahamsghosts.surge.sh/ | Vanilla JS | 
 | Gapagbook | A mock of facebook with user sign-up/sign-in and posts | https://gapag1.herokuapp.com | Complete | Ruby on Rails, SQL |
 | Grayweb | This is my portfolio site and is a great example of me flexing my front-end skills as well as showing my understanding of responsive design. Feel free to visit it on mobile or laptop (All CSS is original) | http://grahamfalconer.surge.sh | Always Under Construction | React.js, CSS |
 
