@@ -58,15 +58,16 @@ Hi, I'm Graham. I'm a fullstack developer, graduate of makers academy and a Brit
 *Junior Developer*  
 
 
-> - T.D.D: Experienced in unit and feature testing applications as well as related methodologies
-> - Agile Workflow: Completing Tickets, having standups, scrums, check-ins
-> - X.P.P Methodologies; Practiced feedback, respect, courage, communication and simplicity increased EQ when working in a team 
+> • Worked with other developers in an agile environment using Git workflow
+> • Practiced teamwork and followed extreme programming principles (X.P.P's)
+> • Responsible for project design, programming, integration, deployment etc right from back to front end.
+> • Gained proficiency in working with Ruby, ES6, Node.js, HTML, CSS, React, MongoDB and SQL.
 
 
 <h3> Scientrix (May 2019 - November 2019) </h3>
 
-*Work Experience*  
-> - Gained client facing experience
+*Management Consultancy*  
+> - Gained client facing experience working with largwe
 > - Worked in a consultant environment with large firms and retailers
 > - Learned about business tools for productivity
 > - Coding, was encouraged to learn some basic programming principles by developers within the company as I discovered a passion for it
