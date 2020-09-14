@@ -81,7 +81,6 @@ I'm a fullstack developer and graduate of Makers Academy who loves to build and 
   > - Data collection and analysis
   > - Presentation and Public speaking
   > - Mapping
-
   > - G.I.S Systems and ArcMap
   > - Cultural Geographies
   > - Economic Geographies
