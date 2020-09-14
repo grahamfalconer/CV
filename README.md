@@ -11,7 +11,7 @@ I'm a fullstack developer, graduate of makers academy and a British South-Africa
 | Mission-ctrl | A game to learn VScode shortcuts using Javascript event listeners | http://mission-ctrl.surge.sh | Complete | MongoDB, Express, React, NodeJS |
 | Honda OtheRside | A recreation of the Honda Civic R 2015  <a href="http://wklondon.com/work/the-other-side/"> Otherside video player </a> it includes a fully responsive design and a unique feature of swapping between videos | http://honda-theotherside.surge.sh/ | Complete | Vanilla JS, HTML, CSS |
 | Grahams Ghosts | (PG 15) A classic arcade shooter with some pretty spooky sound effects. Play at your own will! | https://grahamsghosts.surge.sh/ | Complete | Vanilla JS | 
-| Bank Tech Task | A recreation of a bank account, includes features such as balance, withdrawl, deposit and printing statements | Complete |  https://github.com/grahamfalconer/Bank_tech_task | Ruby |
+| Bank Tech Task | A recreation of a bank account and its features | https://github.com/grahamfalconer/Bank_tech_task | Complete | Ruby |
 | Grahams Haunted Piano | A piano you can use on your keyboard built in javascript. | https://grahamshauntedpiano.surge.sh | under construction | Vanilla JS |
 | Gapagbook | A mock of facebook with user sign-up/sign-in and posts | https://gapag1.herokuapp.com | Complete | Ruby on Rails, SQL |
 | Grayweb | This is my portfolio site and is a great example of me flexing my front-end skills as well as showing my understanding of responsive design. Feel free to visit it on mobile or laptop (All CSS is original) | http://grahamfalconer.surge.sh | Always Under Construction | React.js, CSS |
