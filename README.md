@@ -1,4 +1,4 @@
-<h1> Graham Falconer's CV </h1>
+<p style="text-align: center;"> <h1> Graham Falconer's CV </h1> </p>
 
 [Projects](#Projects) | [Technologies](#Technologies) | [Skills](#Skills) | [Values](#Values) | [Experience](#Experience) | [Education](#Education) | External Links--> [My Website](http://grahamfalconer.surge.sh/ "Grahams Portfolio") | [LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") | [CodeWars](https://www.codewars.com/users/grahamcodes98 "Grahams CodeWars")  
 
