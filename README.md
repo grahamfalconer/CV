@@ -2,7 +2,7 @@
 
 [Projects](#Projects) | [Skills](#Skills) | [Technologies](#Technologies) | [Values](#Values) | [Experience](#Experience) | [Education](#Education) | External Links--> [My Website](http://grahamfalconer.surge.sh/ "Grahams Portfolio") | [LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") | [CodeWars](https://www.codewars.com/users/grahamcodes98 "Grahams CodeWars")  
 
-I'm a fullstack developer and graduate of Makers Academy who loves to build and create technology. My journey into tech has seen me be a geography student, management consultant as well as a climate change activist. I am passionate about making impactful change and love to stay enthusiastic about the work I do. On top of this, I also have deep-rooted entrepreneurial ambition and see my next 10 years in a software development role as an opportunity to build the necessary skills to flourish in industry. I love working with other people, practicing communication and building my network, please get in touch.
+I'm a fullstack developer and graduate of Makers Academy who loves to build and create technology. My journey into tech has seen me be a geography student, management consultant as well as a climate change activist. I am passionate about making impactful change and love to stay enthusiastic about the work I do. On top of this, I also have deep-rooted entrepreneurial ambition and see my next 10 years in a software development role as an opportunity to build the necessary skills to flourish in industry.
 
 <h2 id="Projects"> Projects </h2>
 
