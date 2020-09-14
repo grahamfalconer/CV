@@ -111,9 +111,6 @@ Hi, I'm Graham. I'm a fullstack developer, graduate of makers academy and a Brit
   > - Captained the school swimming team in multiple gala victories
   > -  Contributed towards a positive school environment by arranging after school socials for boarders 
 
-<br />
-
-
 
 
 <h3> International School of Cape Town - 2010-2016 </h3>
