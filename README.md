@@ -4,7 +4,6 @@
 
 Hi, I'm Graham. I'm a fullstack developer, graduate of makers academy and a British South-African. My journey into tech has seen me be a geography student, management consultant as well as a climate change activist. I have always been passionate about making impactful change and love to stay enthusiastic about the work I do. On top of this, I also have deep-rooted entrepreneurial ambition and see my next 10 years in a software development role as my opportunity to build the necessary skills to flourish in industry. I love working with other people, practicing communication and building my network, please get in touch.
 
-
 <h2 id="Projects"> Projects </h2>
 
 | Project Name | Project Description | Project link | Status | Technology used |
@@ -15,10 +14,7 @@ Hi, I'm Graham. I'm a fullstack developer, graduate of makers academy and a Brit
 | Gapagbook | A mock of facebook with user sign-up/sign-in and posts | https://gapag1.herokuapp.com | Complete | Ruby on Rails, SQL |
 | Grayweb | This is my portfolio site and is a great example of me flexing my front-end skills as well as showing my understanding of responsive design. Feel free to visit it on mobile or laptop (All CSS is original) | http://grahamfalconer.surge.sh | Always Under Construction | React.js, CSS |
 
-
-
 <br />
-
 
 <h2 id="Technologies"> Technologies </h2>
 
@@ -50,11 +46,9 @@ Hi, I'm Graham. I'm a fullstack developer, graduate of makers academy and a Brit
 
 <br />
 
-
 <h2 id="Experience"> Experience </h2>
 
 <h3> Scientrix (May 2019 - December 2019) </h3>
-
 
 *Management Consultancy*  
 > - Worked on the Scientrix Modularity platform providing modularization, interconnectivity, data-management, decision making and portfolio management.
@@ -90,18 +84,13 @@ Hi, I'm Graham. I'm a fullstack developer, graduate of makers academy and a Brit
   > - Presentation and Public speaking
   > - Mapping
 
-<br />
 
 
-
->_Relevant modules_
-> - G.I.S Systems and ArcMap
-> - Cultural Geographies
-> - Economic Geographies
-
+  >_Relevant modules_
+  > - G.I.S Systems and ArcMap
+  > - Cultural Geographies
+  > - Economic Geographies
   
-  
-
 <h3> Sutton Valence School - Business, Economics & Geography 2014-2016 </h3>
 
   > _Achievements_
@@ -111,17 +100,12 @@ Hi, I'm Graham. I'm a fullstack developer, graduate of makers academy and a Brit
   > - Captained the school swimming team in multiple gala victories
   > -  Contributed towards a positive school environment by arranging after school socials for boarders 
 
-
-
 <h3> International School of Cape Town - 2010-2016 </h3>
 
   > *Silver Presidents Award*
   > - Recieved silver presidents Award for completing weekly charity work in the township of Masiphumelele.
 
 <br />
-
-
-
 
 <h2> Hobbies </h2>
 
