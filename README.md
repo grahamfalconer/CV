@@ -1,6 +1,6 @@
 <h1> Graham Falconer </h1>
 
-[Projects](#Projects) | [Technologies](#Technologies) | [Skills](#Skills) | [Values](#Values) | [Experience](#Experience) | [Education](#Education) | External Links--> [My Website](http://grahamfalconer.surge.sh/ "Grahams Portfolio") | [LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") | [CodeWars](https://www.codewars.com/users/grahamcodes98 "Grahams CodeWars")  
+[Projects](#Projects) | [Skills](#Skills) | [Technologies](#Technologies) | [Values](#Values) | [Experience](#Experience) | [Education](#Education) | External Links--> [My Website](http://grahamfalconer.surge.sh/ "Grahams Portfolio") | [LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") | [CodeWars](https://www.codewars.com/users/grahamcodes98 "Grahams CodeWars")  
 
 I'm a fullstack developer and graduate of Makers Academy who loves to build and create technology. My journey into tech has seen me be a geography student, management consultant as well as a climate change activist. I am passionate about making impactful change and love to stay enthusiastic about the work I do. On top of this, I also have deep-rooted entrepreneurial ambition and see my next 10 years in a software development role as an opportunity to build the necessary skills to flourish in industry. I love working with other people, practicing communication and building my network, please get in touch.
 
@@ -18,16 +18,6 @@ I'm a fullstack developer and graduate of Makers Academy who loves to build and 
 
 <br />
 
-<h2 id="Technologies"> Technologies </h2>
-
-|**Level of Knowledge**|**Technology**|
-|--------------------------------|-----|
-| Strong Knowledge | React.js, Javascript, Node.js, Ruby, HTML, CSS, Ruby on Rails, PostgreSQL, mySQL, Rspec, Jest, Enzyme, Jasmine, Rubocop, SimpleCov, Rubycritic, Capybara | 
-| Reasonable Knowledge | React Native, Express, MongoDB, Python, Matlabs, Sinatra, Travis CI/CD, Circle CI, Mocha  |
-| Some Knowledge | Docker, Puppeteer.js |
-
-<br />
-
 <h2 id="Skills"> Skills </h2>
 
 **Creative Problem Solving** - I like to let creativity be the enabler in my problem solving approach, this has allowed me to break down complex coding problems and to have built a solid foundation in my understanding of object oriented programming. Through this object oriented lens I am able to see vivid representations of what is being built and therefore have a better understanding of the externalities and problems it may face, this has led me take a precognitive approach to design with carefully thought out component structures.
@@ -36,6 +26,15 @@ I'm a fullstack developer and graduate of Makers Academy who loves to build and 
 
 **Adaptability** - Having lived in 6 different countries by the age of 22 (New Zealand, South Africa, Kuwait, Bahrain, England & Scotland), its fair to say I am no stranger to change. Upon arriving in a new environment, I am always quick to establish and integrate myself and make the most of what is around me. This has enabled me to take on new tech stacks with a sense of excitement and to promptly a member of the community.
 
+<br />
+
+<h2 id="Technologies"> Technologies </h2>
+
+|**Level of Knowledge**|**Technology**|
+|--------------------------------|-----|
+| Strong Knowledge | React.js, Javascript, Node.js, Ruby, HTML, CSS, Ruby on Rails, PostgreSQL, mySQL, Rspec, Jest, Enzyme, Jasmine, Rubocop, SimpleCov, Rubycritic, Capybara | 
+| Reasonable Knowledge | React Native, Express, MongoDB, Python, Matlabs, Sinatra, Travis CI/CD, Circle CI, Mocha  |
+| Some Knowledge | Docker, Puppeteer.js |
 <br />
 
 <h2 id="values"> Values </h2>
@@ -100,6 +99,7 @@ I'm a fullstack developer and graduate of Makers Academy who loves to build and 
   > - Recieved silver presidents Award for completing weekly charity work in the township of Masiphumelele.
 
 <br />
+
 
 <h2> Hobbies </h2>
 
