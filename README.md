@@ -55,7 +55,7 @@ Hi, I'm Graham. I'm a fullstack developer, graduate of makers academy and a Brit
 > - Attended workshops on proposed implementations and cascading of strategies into Scientrix platform.
 > - Worked directly with clients to help best identify business needs and manage their OKR's (Objective Key Results)
 > - Helped businesses understand their own brand and decide on objectives
-> - Recieved mentoring from consultants and developed skills working with; javascript, HTML5, mysql.
+> - Recieved mentoring from consultants and developed skills in: javascript, HTML5, mysql.
 
 
 <br />
@@ -71,11 +71,11 @@ Hi, I'm Graham. I'm a fullstack developer, graduate of makers academy and a Brit
 > - Practiced teamwork and followed extreme programming principles (X.P.P's)
 > - Project design, programming, integration, deployment etc right from back to front end.
 > - Object Oriented Programming and design (O.O.P, O.O.D)
-> - Test Driven and Behaviour driven development (T.D.D & B.D.D) working with testing frameworks such as Jest and RSpec
+> - Test Driven and Behaviour driven development (T.D.D & B.D.D)
 > - Model View Controller structure
-> - Web-dev fundamentals and working with the D.O.M
-> - Working with databases (understanding one to many and many to many relationships)
-> - Gaining proficiency in working with Ruby, ES6, Node.js, HTML, CSS, React, MongoDB and SQL.
+> - Web-dev fundamentals and manipulating the D.O.M
+> - Using databases (understanding one to many and many to many relationships)
+> - Gaining proficiency in Ruby, ES6, Node.js, HTML, CSS, React, MongoDB and SQL.
 
 <h3> University of Birmingham - Geography (BA) 2016-2019 </h3>
 
