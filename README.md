@@ -1,4 +1,4 @@
-<h1> Graham Falconer's CV </h1>
+<h1> Graham Falconer </h1>
 
 [Projects](#Projects) | [Technologies](#Technologies) | [Skills](#Skills) | [Values](#Values) | [Experience](#Experience) | [Education](#Education) | External Links--> [My Website](http://grahamfalconer.surge.sh/ "Grahams Portfolio") | [LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") | [CodeWars](https://www.codewars.com/users/grahamcodes98 "Grahams CodeWars")  
 
@@ -115,5 +115,4 @@ In my free time enjoy;
   > - Breaking legs in five-a-side casual league games
   > - Finding enormous boulders to climb 
   > - Growing my own foood
-  > - Finding music from all around the world to add to my spotify playlists
 
