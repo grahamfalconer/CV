@@ -59,7 +59,7 @@ Hi, I'm Graham. I'm a fullstack developer, graduate of makers academy and a Brit
 *Management Consultancy*  
 > - Worked on the Scientrix Modularity platform providing modularization, interconnectivity, data-management, decision making and portfolio management.
 > - Attended workshops on proposed implementations and cascading of strategies into Scientrix platform.
-> - Worked directly with clients to help best identify business needs and working with OKRS
+> - Worked directly with clients to help best identify business needs and manage their OKR's (Objective Key Results)
 > - Helped businesses understand their own brand and decide on objectives
 > - Recieved mentoring from consultants and developed skills working with; javascript, HTML5, mysql.
 
