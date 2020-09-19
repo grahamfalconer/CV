@@ -33,7 +33,7 @@ differently to other members of my groups and allowed me to provide potent outsi
 
 |**Level of Knowledge**|**Technology**|
 |--------------------------------|-----|
-| Strong Knowledge | React.js, Javascript, Node.js, Ruby, HTML, CSS, Ruby on Rails, PostgreSQL, mySQL, Rspec, Jest, Enzyme, Jasmine, Rubocop, SimpleCov, Rubycritic, Capybara | 
+| Strong Knowledge | React.js, Javascript, Node.js, HTML, CSS, Ruby, Ruby on Rails, PostgreSQL, mySQL, Rspec, Jest, Enzyme, Jasmine | 
 | Reasonable Knowledge | React Native, Express, MongoDB, Python, Matlabs, Sinatra, Travis CI/CD, Circle CI, Mocha  |
 | Some Knowledge | Docker, Puppeteer.js |
 
