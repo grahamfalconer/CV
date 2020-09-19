@@ -20,11 +20,12 @@ I'm a fullstack developer and graduate of Makers Academy in London. I love to bu
 
 <h2 id="Skills"> Skills </h2>
 
-**Creative Problem Solving** - I like to let creativity be the enabler in my problem solving approach, this has allowed me to break down complex coding problems and to have built a solid foundation in my understanding of object oriented programming. Through this object oriented lens I am able to see vivid representations of what is being built and therefore have a better understanding of the externalities and problems it may face, this has led me take a precognitive approach to design with carefully thought out component structures.
+**Creative Problem Solving** - When confronted with complex problems I will often resort to my creativity and intuition to solve them. This has enabled me to think
+differently to other members of my groups and allowed me to provide potent outside of the box solutions which are regularly incorporated into projects.
 
-**Strong communication** - I have always been recognized as an optimistic and outgoing person by my peers and have regularly been put forward for roles involving demonstrations, negotiations, and public speaking. This has not only been in the projects I have done at Makers, but extends further to University where I regularly gave presentations on the results of our projects. I was also able win the Model United Nations(M.U.N) debate and the Rotary Youth Speaks public speaking competition. Practicing my communication in this way has allowed me to become a great story-teller who can help motivate and inspire with my words as well as articulate the natures of complex problems.
+**Strong communication** - - I have always been recognised as an optimistic and outgoing person by my peers and have often been put forward for roles involving demonstrations, negotiations, and public speaking. As well as this I also won the Rotary Youth Speaks Public Speaking Award (2015) and the Model United Nations Debate (2016). Practicing my communication in this way has allowed me to become a great story-teller who can help motivate and inspire with my words as well as articulate the natures of complex problems.
 
-**Adaptability** - Having lived in 6 different countries by the age of 22 (New Zealand, South Africa, Kuwait, Bahrain, England & Scotland), its fair to say I am no stranger to change. Upon arriving in a new environment, I am always quick to establish and integrate myself and make the most of what is around me. This has enabled me to take on new tech stacks with a sense of excitement and to promptly a member of the community.
+**Adaptability** -  Having lived in 6 countries by the age of 22 and as well as having made a career change from Geography into Tech, it is fair to see change is something I welcome with open arms and stay excited about. This has allowed me to feel comfortable when arriving in new environments and taking on new technologies.
 
 <br />
 
