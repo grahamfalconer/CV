@@ -63,7 +63,7 @@ I'm a fullstack developer and graduate of Makers Academy in London. I love to bu
 
 <h2 id="Education"> Education </h2>
 
-<h3> Makers Academy - Software Development (March 2020 - June 2020) </h3> 
+<h3> Makers Academy - Software Development (February 2020 - Present) </h3> 
 
 > - Breaking down user stories into requirements and following an agile development process
 > - Practiced teamwork and followed extreme programming principles (X.P.P's)
