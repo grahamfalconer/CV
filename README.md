@@ -40,9 +40,9 @@ I'm a fullstack developer and graduate of Makers Academy in London. I love to bu
 
 <h2 id="values"> Values </h2>
 
-1: **Love what you do:** I am an incredibly passionate person and let my flooding enthusiasm be a driving force in everything I do, this has enabled me to really push myself in challenging situations such as this career change by completely immersing myself in everything tech, including; books, projects, television shows and more!
+1: **Love what you do:** I am an incredibly passionate person and let my flooding enthusiasm be a driving force in everything I do, this has enabled me to really push myself in challenging situations, such as a career change into tech. By completely immersing myself in everything technology, including; books, projects, television shows and more!
 
-2: **Honest feedback is the best feedback:** as someone who values self progression a great deal and is always trying new things to improve, honest feedback is something I see as crucial, especially at this stage in my career it is important that its made clear to me what works so that I can include it in future recipes for success.
+2: **Honest feedback is the best feedback:** As someone who values self progression a great deal and is always trying new things to improve, honest feedback is something I see as crucial, especially at this stage in my career it is important that it's made clear to me what works so that I can include it in future recipes for success.
 
 3: **Always listen to the little guy:** I am an empathetic person and feel a personal desire to see others around me feel comfortable in the space they are in as this is when people are going to work best for you and themselves.
 
