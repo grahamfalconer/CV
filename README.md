@@ -20,12 +20,11 @@ I'm a fullstack developer and graduate of Makers Academy in London. I love to bu
 
 <h2 id="Skills"> Skills </h2>
 
-**Creative Problem Solving** - When confronted with complex problems I will often resort to my creativity and intuition to solve them. This has enabled me to think
-differently to other members of my groups and allowed me to provide potent outside of the box solutions which are regularly incorporated into projects.
-
 **Strong communication** - - I have always been recognised as an optimistic and outgoing person by my peers and have often been put forward for roles involving demonstrations, negotiations, and public speaking. As well as this I also won the Rotary Youth Speaks Public Speaking Award (2015) and the Model United Nations Debate (2016). Practicing my communication in this way has allowed me to become a great story-teller who can help motivate and inspire with my words as well as articulate the natures of complex problems.
 
 **Adaptability** -  Having lived in 6 countries by the age of 22 and as well as having made a career change from Geography into Tech, it is fair to see change is something I welcome with open arms and stay excited about. This has allowed me to feel comfortable when arriving in new environments and taking on new technologies.
+
+**Creative Problem Solving** - When confronted with complex problems I will often resort to my creativity and intuition to solve them. This has enabled me to think differently to other members of my groups and allowed me to provide potent outside of the box solutions which are regularly incorporated into projects.
 
 <br />
 
