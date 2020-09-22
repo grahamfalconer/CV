@@ -50,7 +50,7 @@ I'm a fullstack developer and graduate of Makers Academy in London. I love to bu
 
 <h2 id="Experience"> Experience </h2>
 
-<h3> Scientrix - Management Consultant (May 2019 - December 2019) </h3>
+<h3> Scientrix - Management Consultanty Internship (May 2019 - December 2019) </h3>
  
 > - Worked on the Scientrix Modularity platform providing modularization, interconnectivity, data-management, decision making and portfolio management.
 > - Attended workshops on proposed implementations and cascading of strategies into Scientrix platform.
