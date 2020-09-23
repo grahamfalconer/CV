@@ -1,8 +1,12 @@
+<div align="center"
+
 <h1> Graham Falconer </h1>
 
 [Projects](#Projects) | [Skills](#Skills) | [Technologies](#Technologies) | [Values](#Values) | [Experience](#Experience) | [Education](#Education) | [My Website](http://grahamfalconer.surge.sh/ "Grahams Portfolio") | [LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") 
 
 I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers Academy </a> in London. I love to build and create technology! My journey into tech has seen me be a geography student, management consultant as well as a climate change activist. I am passionate about making impactful change and am enthusiastic about the work I do. My favourite technologies to work with are React (Native or JS), Javascript and CSS.
+
+</div>
 
 <h2 id="Projects"> Projects </h2>
 
