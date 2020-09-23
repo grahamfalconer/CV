@@ -8,7 +8,7 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
 
 </div>
 
-<h2 id="Projects"> Projects </h2>
+<div align="center"> <h2 id="Projects"> Projects </h2> </div>
 
 | Project Name | Project Description | Project link | Status | Technology used |
 |--------------|------------------------------|----------|----|-------|
@@ -22,7 +22,7 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
 
 <br />
 
-<h2 id="Skills"> Skills </h2>
+<div align="center"> <h2 id="Skills"> Skills </h2> </div>
 
 **Strong communication** - - I have always been recognised as an optimistic and outgoing person by my peers and have often been put forward for roles involving demonstrations, negotiations, and public speaking. As well as this I also won the <a href="https://rotary1070.org/youth/competitions/y-speaks/"> Rotary Youth Speaks </a> Public Speaking Award (2015) and the <a href="https://en.wikipedia.org/wiki/Model_United_Nations"> Model United Nations Debate (2016) </a>. Practicing my communication in this way has allowed me to become a great story-teller who can help motivate and inspire with my words as well as articulate the natures of complex problems.
 
@@ -32,7 +32,7 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
 
 <br />
 
-<h2 id="Technologies"> Technologies </h2>
+<div align="center"> <h2 id="Technologies"> Technologies </h2> </div>
 
 |**Level of Knowledge**|**Technology**|
 |--------------------------------|-----|
@@ -42,7 +42,7 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
 
 <br />
 
-<h2 id="values"> Values </h2>
+<div align="center"> <h2 id="values"> Values </h2> </div>
 
 1: **Love what you do:** I am an incredibly passionate person and let my flooding enthusiasm be a driving force in everything I do, this has enabled me to really push myself in challenging situations, such as a career change into tech. By completely immersing myself in everything technology, including; books, projects, television shows and more!
 
@@ -52,7 +52,7 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
 
 <br />
 
-<h2 id="Experience"> Experience </h2>
+<div align="center"> <h2 id="Experience"> Experience </h2> </div>
 
 <h3> Scientrix - Management Consultanty Internship (May 2019 - December 2019) </h3>
  
@@ -65,7 +65,7 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
 
 <br />
 
-<h2 id="Education"> Education </h2>
+<div align="center"> <h2 id="Education"> Education </h2> </div>
 
 <h3> Makers Academy - Software Development (February 2020 - Present) </h3> 
 
@@ -105,7 +105,7 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
 <br />
 
 
-<h2> Hobbies </h2>
+<div align="center"> <h2> Hobbies </h2> </div>
 
 In my free time enjoy;
   > - Breaking legs in five-a-side casual league games
