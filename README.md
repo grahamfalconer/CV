@@ -24,6 +24,8 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
 
 <br />
 
+-----------
+
 <div align="center"> <h2 id="Skills"> Skills </h2> </div>
 
 **Strong communication** - - I have always been recognised as an optimistic and outgoing person by my peers and have often been put forward for roles involving demonstrations, negotiations, and public speaking. As well as this I also won the <a href="https://rotary1070.org/youth/competitions/y-speaks/"> Rotary Youth Speaks </a> Public Speaking Award (2015) and the <a href="https://en.wikipedia.org/wiki/Model_United_Nations"> Model United Nations Debate (2016) </a>. Practicing my communication in this way has allowed me to become a great story-teller who can help motivate and inspire with my words as well as articulate the natures of complex problems.
@@ -33,6 +35,8 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
 **Creative Problem Solving** - When confronted with complex problems I will often resort to my creativity and intuition to solve them. This has enabled me to think differently to other members of my groups and allowed me to provide potent outside of the box solutions which are regularly incorporated into projects, such as my custom event listeners which featured in <a href="http://mission-ctrl.surge.sh/"> Mission-Ctrl </a>.
 
 <br />
+
+-----------
 
 <div align="center"> <h2 id="Technologies"> Technologies </h2> </div>
 
@@ -44,6 +48,8 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
 
 <br />
 
+-----------
+
 <div align="center"> <h2 id="values"> Values </h2> </div>
 
 1: **Love what you do:** I am an incredibly passionate person and let my flooding enthusiasm be a driving force in everything I do, this has enabled me to really push myself in challenging situations, such as a career change into tech. By completely immersing myself in everything technology, including; books, projects, television shows and more!
@@ -53,6 +59,8 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
 3: **Always listen to the little guy:** I am an empathetic person and feel a personal desire to see others around me feel comfortable in the space they are in as this is when people are going to work best for you and themselves.
 
 <br />
+
+-----------
 
 <div align="center"> <h2 id="Experience"> Experience </h2> </div>
 
@@ -66,6 +74,8 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
 
 
 <br />
+
+-----------
 
 <div align="center"> <h2 id="Education"> Education </h2> </div>
 
@@ -105,6 +115,8 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
   > - Recieved silver presidents Award for completing weekly charity work in the township of Masiphumelele.
 
 <br />
+
+-----------
 
 
 <div align="center"> <h2> Hobbies </h2> </div>
