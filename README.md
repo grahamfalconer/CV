@@ -1,6 +1,6 @@
 <div align="center"
 
-<h1> Graham Falconer </h1>
+# Graham Falconer
 
 [Projects](#Projects) | [Skills](#Skills) | [Technologies](#Technologies) | [Values](#Values) | [Experience](#Experience) | [Education](#Education) | [My Website](http://grahamfalconer.surge.sh/ "Grahams Portfolio") | [LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") 
 
