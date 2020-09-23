@@ -123,7 +123,7 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
 
 In my free time enjoy;
   > - Breaking legs in five-a-side casual league games
-  > - Watching and listening to code related TV shows, movies and podcasts (<a href="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"> Silicon Valley, </a> <a href="https://en.wikipedia.org/wiki/StartUp_(TV_series)"> The Start Up, </a> <a href="https://reactpodcast.simplecast.com/"> The React Podcast on Spotify, </a> <a href="https://en.wikipedia.org/wiki/The_Internship"> The Internship </a>) ... to name a few
+  > - Watching and listening to code related TV shows, movies and podcasts (<a href="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)">Silicon Valley, </a> <a href="https://en.wikipedia.org/wiki/StartUp_(TV_series)"> The Start Up, </a> <a href="https://reactpodcast.simplecast.com/"> The React Podcast on Spotify, </a> <a href="https://en.wikipedia.org/wiki/The_Internship"> The Internship</a>) ... to name a few
   > - Growing my own food
 
 I also thought to mention that any gaps in my commit history have been used productively, I am part of a football team as well as an avid gym goer. If you wish to enquire about other work I have on private repo's than feel free to give me a message as this is usually work I am doing for my friends startups or university projects and I'm sure they wouldn't mind you taking a peek!
