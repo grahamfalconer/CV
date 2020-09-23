@@ -1,6 +1,8 @@
 <div align="center"
 
-# <h1> <font size="10"> Graham Falconer </font> </h1>
+<h1> <font size="10"> Graham Falconer </font> </h1>
+
+-----------
 
 [Projects](#Projects) | [Skills](#Skills) | [Technologies](#Technologies) | [Values](#Values) | [Experience](#Experience) | [Education](#Education) | [My Website](http://grahamfalconer.surge.sh/ "Grahams Portfolio") | [LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") 
 
@@ -127,4 +129,7 @@ In my free time enjoy;
   > - Growing my own foood
 
 I also thought to mention that any gaps in my commit history have been used productively, I am part of a football team as well as an avid gym goer. If you wish to enquire about other work I have on private repo's than feel free to give me a message as this is usually work I am doing for my friends startups or university projects and I'm sure they wouldn't mind you taking a peek!
+
+-----------
+
 
