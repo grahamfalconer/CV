@@ -8,6 +8,8 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
 
 </div>
 
+<br>
+
 <div align="center"> <h2 id="Projects"> Projects </h2> </div>
 
 | Project Name | Project Description | Project link | Status | Technology used |
