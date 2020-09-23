@@ -1,4 +1,4 @@
-<div align="centre"
+<div align="center"
 
 <h1> Graham Falconer </h1>
 
