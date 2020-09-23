@@ -105,6 +105,6 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
 
 In my free time enjoy;
   > - Breaking legs in five-a-side casual league games
-  > - Watching code related TV shows and movies (<a href="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"> Silicon Valley, </a>)
+  > - Watching and listening to code related TV shows, movies and podcasts (<a href="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"> Silicon Valley, </a> <a href="https://en.wikipedia.org/wiki/StartUp_(TV_series)"> The Start Up, </a> <a href="https://reactpodcast.simplecast.com/"> The React Podcast on Spotify, </a> <a href="https://en.wikipedia.org/wiki/The_Internship"> The Internship </a>) ... to name a few
   > - Growing my own foood
 
