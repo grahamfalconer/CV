@@ -3,7 +3,7 @@
 # <h1> <font size="10"> Graham Falconer </font> </h1>
 
 
-[Projects](#Projects) | [Skills](#Skills) | [Technologies](#Technologies) | [Values](#Values) | [Experience](#Experience) | [Education](#Education) | [My Website](http://grahamfalconer.surge.sh/ "Grahams Portfolio") | [LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") 
+[Projects](#Projects) | [Skills](#Skills) | [Technologies](#Technologies) | [Experience](#Experience) | [Education](#Education) | [Values](#Values) | [My Website](http://grahamfalconer.surge.sh/ "Grahams Portfolio") | [LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") 
 
 I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers Academy </a> in London. I love to build and create technology! My journey into tech has seen me be a geography student, management consultant as well as a climate change activist. I am passionate about making impactful change and am enthusiastic about the work I do. My favourite technologies to work with are React (Native or JS), Javascript and CSS and I really enjoy working in teams, feel free to send me a message if you are interested in working on a project together!
 
@@ -45,18 +45,6 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
 | Strong Knowledge | React.js, Javascript, Node.js, HTML, CSS, Ruby, Ruby on Rails, PostgreSQL, mySQL, Rspec, Jest, Enzyme, Jasmine | 
 | Reasonable Knowledge | React Native, Express, MongoDB, Python, Matlabs, Sinatra, Travis CI/CD, Circle CI, Mocha  |
 | Some Knowledge | Docker, Puppeteer.js |
-
-<br />
-
------------
-
-<div align="center"> <h2 id="values"> Values </h2> </div>
-
-1: **Love what you do:** I am an incredibly passionate person and let my flooding enthusiasm be a driving force in everything I do, this has enabled me to really push myself in challenging situations, such as a career change into tech. By completely immersing myself in everything technology, including; books, projects, television shows and more!
-
-2: **Honest feedback is the best feedback:** As someone who values self progression a great deal and is always trying new things to improve, honest feedback is something I see as crucial, especially at this stage in my career it is important that it's made clear to me what works so that I can include it in future recipes for success.
-
-3: **Always listen to the little guy:** I am an empathetic person and feel a personal desire to see others around me feel comfortable in the space they are in as this is when people are going to work best for you and themselves.
 
 <br />
 
@@ -114,9 +102,23 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
   > *Silver Presidents Award*
   > - Recieved silver presidents Award for completing weekly charity work in the township of Masiphumelele.
 
+-----------
+
+<br />
+
+<div align="center"> <h2 id="values"> Values </h2> </div>
+
+1: **Love what you do:** I am an incredibly passionate person and let my flooding enthusiasm be a driving force in everything I do, this has enabled me to really push myself in challenging situations, such as a career change into tech. By completely immersing myself in everything technology, including; books, projects, television shows and more!
+
+2: **Honest feedback is the best feedback:** As someone who values self progression a great deal and is always trying new things to improve, honest feedback is something I see as crucial, especially at this stage in my career it is important that it's made clear to me what works so that I can include it in future recipes for success.
+
+3: **Always listen to the little guy:** I am an empathetic person and feel a personal desire to see others around me feel comfortable in the space they are in as this is when people are going to work best for you and themselves.
+
 <br />
 
 -----------
+
+
 
 
 <div align="center"> <h2> Hobbies </h2> </div>
