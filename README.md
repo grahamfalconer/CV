@@ -129,6 +129,5 @@ In my free time enjoy;
 
 I also thought to mention that any gaps in my commit history have been used productively, I am part of a football team as well as an avid gym goer. If you wish to enquire about other work I have on private repo's than feel free to give me a message as this is usually work I am doing for my friends startups or university projects and I'm sure they wouldn't mind you taking a peek!
 
------------
 
 
