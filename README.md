@@ -102,7 +102,6 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
   > *Silver Presidents Award*
   > - Recieved silver presidents Award for completing weekly charity work in the township of Masiphumelele.
 
------------
 
 <br />
 
