@@ -44,7 +44,7 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
 |--------------------------------|-----|
 | Strong Knowledge | React.js, Javascript, Node.js, HTML, CSS, Ruby, Ruby on Rails, PostgreSQL, mySQL, Rspec, Jest, Enzyme, Jasmine | 
 | Reasonable Knowledge | React Native, Express, MongoDB, Python, Matlabs, Sinatra, Travis CI/CD, Circle CI, Mocha  |
-| Some Knowledge | Docker, Puppeteer.js |
+| Some Knowledge | Docker, Puppeteer.js, AWS |
 
 <br />
 
