@@ -15,7 +15,7 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
 | Project Name | Project Description | Project link | Status | Technology used |
 |--------------|------------------------------|----------|----|-------|
 | Mission-ctrl | A game to learn VScode shortcuts using Javascript event listeners | http://mission-ctrl.surge.sh | Complete | MongoDB, Express, React, NodeJS |
-| Honda OtheRside | A recreation of the Honda Civic R 2015  <a href="http://wklondon.com/work/the-other-side/"> Otherside video player </a> it includes a fully responsive design and a unique feature of swapping between videos | http://honda-theotherside.surge.sh/ | Complete | Vanilla JS, HTML, CSS |
+| Coronavirus Visualizer | A data visualizer for coronavirus, with this project you can view total cases, new cases and more | http://coronavirusvisualizer.surge.sh/ | Complete | Vanilla JS, HTML, CSS |
 | Grahams Ghosts | (PG 15) A classic arcade shooter with some pretty spooky sound effects. Play at your own will! | https://grahamsghosts.surge.sh/ | Complete | Vanilla JS | 
 | Bank Tech Task | A recreation of a bank account and its features | https://github.com/grahamfalconer/Bank_tech_task | Complete | Ruby |
 | Grahams Haunted Piano | A piano you can use on your keyboard built in javascript. | https://grahamshauntedpiano.surge.sh | under construction | Vanilla JS |
