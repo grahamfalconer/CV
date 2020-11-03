@@ -5,7 +5,7 @@
 
 [Projects](#Projects) | [Skills](#Skills) | [Technologies](#Technologies) | [Experience](#Experience) | [Education](#Education) | [My Website](http://grahamfalconer.surge.sh/ "Grahams Portfolio") | [LinkedIn](https://www.linkedin.com/in/graham-falconer-696b0716b "Grahams LinkedIn") 
 
-I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers Academy </a> in London. I love to build and create technology! My journey into tech has seen me be a geography student and management consultant. I am passionate about making impactful change and am enthusiastic about the work I do. I am most comfortable working with a MERN stack, however am always looking for new and exciting to challenges when it comes to picking up new tech.
+I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers Academy </a> in London. My journey into software has seen me be a geography student and a management consultant. I am passionate about making impactful change and am enthusiastic about the work I do. I am most comfortable working with a MERN stack, however am always looking for new and exciting challenges when it comes to picking up new tech!
 
 </div>
 
