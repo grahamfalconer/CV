@@ -58,7 +58,6 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
 > - Attended workshops on proposed implementations and cascading of strategies into Scientrix platform.
 > - Worked directly with clients to help best identify business needs and manage their OKR's (Objective Key Results)
 > - Helped businesses understand their own brand and decide on objectives
-> - Recieved mentoring from consultants and developed skills in: javascript, HTML5, mysql.
 
 
 <br />
