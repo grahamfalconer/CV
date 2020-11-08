@@ -15,11 +15,12 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
 | Project Name | Project Description | Project link | Status | Technology used |
 |--------------|------------------------------|----------|----|-------|
 | Mission-ctrl | A game to learn VScode shortcuts using Javascript event listeners | http://mission-ctrl.surge.sh | Complete | MongoDB, Express, React, NodeJS |
+| Gapagbook | A mock of facebook with user sign-up/sign-in and posts | https://gapag1.herokuapp.com | Complete | Ruby on Rails, SQL |
 | Coronavirus Visualizer | A data visualizer for coronavirus, with this project you can view total cases, new cases and more | http://coronavirusvisualizer.surge.sh/ | Complete | Vanilla JS, HTML, CSS |
-| Grahams Ghosts | (PG 15) A classic arcade shooter with some pretty spooky sound effects. Play at your own will! | https://grahamsghosts.surge.sh/ | Complete | Vanilla JS | 
+| Grahams Ghosts | (PG 15) A classic arcade shooter with some pretty spooky sound effects. Play at your own will! | https://grahamsghosts.surge.sh/ | Complete | Vanilla JS |
+| Grahams Stopwatch | A custom stopwatch built from scratch | http://grahamsstopwatch.surge.sh/ | Complete | Vanilla JS |
 | Bank Tech Task | A recreation of a bank account and its features | https://github.com/grahamfalconer/Bank_tech_task | Complete | Ruby |
 | Grahams Haunted Piano | A piano you can use on your keyboard built in javascript. | https://grahamshauntedpiano.surge.sh | under construction | Vanilla JS |
-| Gapagbook | A mock of facebook with user sign-up/sign-in and posts | https://gapag1.herokuapp.com | Complete | Ruby on Rails, SQL |
 | Grayweb | This is my portfolio site and is a great example of me flexing my front-end skills as well as showing my understanding of responsive design. Feel free to visit it on mobile or laptop (All CSS is original) | http://grahamfalconer.surge.sh | Always Under Construction | React.js, CSS |
 
 <br />
