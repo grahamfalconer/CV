@@ -16,7 +16,7 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
 |--------------|------------------------------|----------|----|-------|
 | Mission-ctrl | A game to learn VScode shortcuts using Javascript event listeners | http://mission-ctrl.surge.sh | Complete | MongoDB, Express, React, NodeJS |
 | Gapagbook | A mock of facebook with user sign-up/sign-in and posts | https://gapag1.herokuapp.com | Complete | Ruby on Rails, SQL |
-| Coronavirus Visualizer | A data visualizer for coronavirus, with this project you can view total cases, new cases and more | http://coronavirusvisualizer.surge.sh/ | Complete | Vanilla JS, HTML, CSS |
+| Coronavirus Visualizer | VOTED BEST PROJECT OF THE WEEK ON CAREER KARMA - A data visualizer for coronavirus, with this project you can view total cases, new cases and more | http://coronavirusvisualizer.surge.sh/ | Complete | Vanilla JS, HTML, CSS |
 | Grahams Ghosts | (PG 15) A classic arcade shooter with some pretty spooky sound effects. Play at your own will! | https://grahamsghosts.surge.sh/ | Complete | Vanilla JS |
 | Grahams Stopwatch | A custom stopwatch built from scratch | http://grahamsstopwatch.surge.sh/ | Complete | Vanilla JS |
 | Bank Tech Task | A recreation of a bank account and its features | https://github.com/grahamfalconer/Bank_tech_task | Complete | Ruby |
