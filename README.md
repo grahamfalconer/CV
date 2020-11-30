@@ -20,7 +20,7 @@ I'm a fullstack developer and graduate of <a href="https://makers.tech/"> Makers
 | Grahams Ghosts | (PG 15) A classic arcade shooter with some pretty spooky sound effects. Play at your own will! | https://grahamsghosts.surge.sh/ | Complete | Vanilla JS |
 | Grahams Stopwatch | A custom stopwatch built from scratch | http://grahamsstopwatch.surge.sh/ | Complete | Vanilla JS |
 | Bank Tech Task | A recreation of a bank account and its features | https://github.com/grahamfalconer/Bank_tech_task | Complete | Ruby |
-| Grahams Haunted Piano | A piano you can use on your keyboard built in javascript. | https://grahamshauntedpiano.surge.sh | under construction | Vanilla JS |
+| Grahams Haunted Piano | A piano you can use on your keyboard built in javascript | https://grahamshauntedpiano.surge.sh | under construction | Vanilla JS |
 | Grayweb | This is my portfolio site and is a great example of me flexing my front-end skills as well as showing my understanding of responsive design. Feel free to visit it on mobile or laptop (All CSS is original) | http://grahamfalconer.surge.sh | Always Under Construction | React.js, CSS |
 
 <br />
